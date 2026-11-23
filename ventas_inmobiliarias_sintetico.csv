@@ -1,0 +1,1097 @@
+cotizacion_id,fecha_cotizacion,cliente_id,proyecto,municipio,tipo_inmueble,area_m2,precio_lista,canal,forma_pago,estado,fecha_cierre,precio_venta
+CT0001,2023-01-01,CL0004,Ceibas,Sabaneta,Apartamento VIS,50.4,180300000,Sala de ventas,Subsidio y crédito,Vendido,2023-04-07,177500000
+CT0002,2023-01-02,CL0007,Yarumos,Medellín,Apartamento No VIS,66.1,438400000,Sala de ventas,Crédito hipotecario,Vendido,2023-02-02,426600000
+CT0003,2023-01-02,CL0020,Ceibas,Sabaneta,Apartamento No VIS,117.2,776400000,Página web,Leasing habitacional,Vendido,2023-05-01,749200000
+CT0004,2023-01-05,CL0002,Guayacanes,Itagüí,Apartamento No VIS,71.1,397900000,Sala de ventas,Contado,Cotizado,,
+CT0005,2023-01-06,CL0006,Robles,Rionegro,Casa,159.6,910900000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0006,2023-01-06,CL0019,Ceibas,Sabaneta,Apartamento No VIS,70.1,440900000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0007,2023-01-08,CL0012,Ceibas,Sabaneta,Apartamento No VIS,69.0,465000000,Feria inmobiliaria,Crédito hipotecario,Cotizado,,
+CT0008,2023-01-08,CL0013,Samanes,Envigado,Casa,103.6,807400000,Feria inmobiliaria,Crédito hipotecario,Separado,,
+CT0009,2023-01-10,CL0003,Arrayanes,Bello,Apartamento VIS,56.9,203600000,Sala de ventas,Crédito hipotecario,Separado,,
+CT0010,2023-01-11,CL0017,Ceibas,Sabaneta,Apartamento No VIS,98.6,646900000,Sala de ventas,Contado,Vendido,2023-03-29,629100000
+CT0011,2023-01-13,CL0015,Robles,Rionegro,Apartamento No VIS,90.7,560700000,Página web,Leasing habitacional,Cotizado,,
+CT0012,2023-01-14,CL0023,Yarumos,Medellín,Apartamento No VIS,104.9,705400000,Sala de ventas,Leasing habitacional,Desistido,2023-02-24,
+CT0013,2023-01-15,CL0009,Guayacanes,Itagüí,Apartamento No VIS,67.7,357000000,Feria inmobiliaria,Leasing habitacional,Desistido,2023-04-27,
+CT0014,2023-01-15,CL0016,Robles,Rionegro,Casa,128.6,764700000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0015,2023-01-16,CL0002,Samanes,Envigado,Casa,123.2,936500000,Feria inmobiliaria,Contado,Vendido,2023-04-22,905400000
+CT0016,2023-01-19,CL0001,Ceibas,Sabaneta,Apartamento No VIS,75.6,481500000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0017,2023-01-20,CL0014,Arrayanes,Bello,Apartamento VIS,44.6,159600000,Página web,Crédito hipotecario,Vendido,2023-03-20,155000000
+CT0018,2023-01-22,CL0008,Yarumos,Medellín,Apartamento No VIS,91.5,661000000,Sala de ventas,Crédito hipotecario,Vendido,2023-05-01,628800000
+CT0019,2023-01-24,CL0018,Arrayanes,Bello,Apartamento VIS,50.0,178900000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0020,2023-01-24,CL0022,Ceibas,Sabaneta,Apartamento VIS,56.7,202900000,Referido,Subsidio y crédito,Cotizado,,
+CT0021,2023-01-25,CL0005,Arrayanes,Bello,Apartamento VIS,59.7,213600000,Sala de ventas,Crédito hipotecario,Vendido,2023-04-28,213400000
+CT0022,2023-01-27,CL0016,Guayacanes,Itagüí,Apartamento VIS,58.0,207500000,Sala de ventas,Subsidio y crédito,Vendido,2023-03-19,201600000
+CT0023,2023-01-28,CL0011,Yarumos,Medellín,Apartamento No VIS,77.0,555200000,Feria inmobiliaria,Leasing habitacional,Separado,,
+CT0024,2023-01-29,CL0010,Robles,Rionegro,Apartamento No VIS,74.8,426600000,Sala de ventas,Leasing habitacional,Cotizado,,
+CT0025,2023-01-29,CL0011,Samanes,Envigado,Apartamento No VIS,72.3,575500000,Sala de ventas,Contado,Vendido,2023-03-02,548200000
+CT0026,2023-01-31,CL0021,Samanes,Envigado,Casa,130.0,942900000,Página web,Leasing habitacional,Cotizado,,
+CT0027,2023-02-01,CL0030,Guayacanes,Itagüí,Apartamento No VIS,90.9,545700000,Sala de ventas,Leasing habitacional,Vendido,2023-05-28,540800000
+CT0028,2023-02-01,CL0044,Guayacanes,Itagüí,Apartamento No VIS,99.7,584100000,Referido,Crédito hipotecario,Vendido,2023-05-29,563400000
+CT0029,2023-02-03,CL0029,Samanes,Envigado,Casa,160.9,1167200000,Página web,Contado,Vendido,2023-04-03,1134400000
+CT0030,2023-02-07,CL0026,Yarumos,Medellín,Apartamento No VIS,108.3,708600000,Página web,Crédito hipotecario,Cotizado,,
+CT0031,2023-02-07,CL0032,Yarumos,Medellín,Apartamento No VIS,77.8,573400000,Sala de ventas,Leasing habitacional,Cotizado,,
+CT0032,2023-02-07,CL0027,Yarumos,Medellín,Apartamento No VIS,66.0,486700000,Sala de ventas,Crédito hipotecario,Vendido,2023-05-07,469600000
+CT0033,2023-02-08,CL0038,Yarumos,Medellín,Apartamento No VIS,87.6,613800000,Feria inmobiliaria,Crédito hipotecario,Separado,,
+CT0034,2023-02-08,CL0043,Yarumos,Medellín,Apartamento No VIS,101.1,745600000,Sala de ventas,Contado,Vendido,2023-03-22,712500000
+CT0035,2023-02-10,CL0024,Yarumos,Medellín,Apartamento No VIS,77.5,533500000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0036,2023-02-10,CL0031,Samanes,Envigado,Apartamento No VIS,110.9,823700000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0037,2023-02-10,CL0038,Arrayanes,Bello,Apartamento VIS,48.7,174200000,Sala de ventas,Subsidio y crédito,Separado,,
+CT0038,2023-02-10,CL0041,Guayacanes,Itagüí,Apartamento No VIS,76.5,416500000,Sala de ventas,Leasing habitacional,Cotizado,,
+CT0039,2023-02-11,CL0036,Samanes,Envigado,Casa,161.6,1302600000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0040,2023-02-14,CL0025,Guayacanes,Itagüí,Apartamento VIS,58.3,208600000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0041,2023-02-14,CL0028,Arrayanes,Bello,Apartamento VIS,47.7,170700000,Página web,Subsidio y crédito,Vendido,2023-03-31,162700000
+CT0042,2023-02-14,CL0034,Guayacanes,Itagüí,Apartamento VIS,46.9,167800000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0043,2023-02-15,CL0035,Ceibas,Sabaneta,Apartamento No VIS,99.8,649600000,Sala de ventas,Leasing habitacional,Cotizado,,
+CT0044,2023-02-19,CL0040,Yarumos,Medellín,Apartamento No VIS,77.1,508100000,Página web,Leasing habitacional,Separado,,
+CT0045,2023-02-21,CL0027,Arrayanes,Bello,Apartamento VIS,47.2,168900000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0046,2023-02-21,CL0011,Guayacanes,Itagüí,Apartamento VIS,48.2,172500000,Página web,Subsidio y crédito,Cotizado,,
+CT0047,2023-02-21,CL0039,Arrayanes,Bello,Apartamento VIS,46.1,164900000,Sala de ventas,Crédito hipotecario,Vendido,2023-06-14,156700000
+CT0048,2023-02-23,CL0042,Ceibas,Sabaneta,Apartamento VIS,53.5,191400000,Feria inmobiliaria,Subsidio y crédito,Vendido,2023-06-20,185100000
+CT0049,2023-02-24,CL0011,Guayacanes,Itagüí,Apartamento No VIS,81.6,483700000,Feria inmobiliaria,Leasing habitacional,Cotizado,,
+CT0050,2023-02-24,CL0037,Ceibas,Sabaneta,Apartamento VIS,57.6,206100000,Referido,Subsidio y crédito,Cotizado,,
+CT0051,2023-02-25,CL0015,Guayacanes,Itagüí,Apartamento No VIS,115.3,629400000,Sala de ventas,Contado,Vendido,2023-04-27,626900000
+CT0052,2023-02-28,CL0033,Samanes,Envigado,Casa,149.5,1199100000,Feria inmobiliaria,Crédito hipotecario,Cotizado,,
+CT0053,2023-03-01,CL0057,Samanes,Envigado,Apartamento No VIS,63.4,468500000,Sala de ventas,Leasing habitacional,Cotizado,,
+CT0054,2023-03-01,CL0018,Yarumos,Medellín,Apartamento No VIS,63.6,425500000,Feria inmobiliaria,Crédito hipotecario,Vendido,2023-04-03,414300000
+CT0055,2023-03-02,CL0050,Samanes,Envigado,Apartamento No VIS,77.7,640500000,Referido,Crédito hipotecario,Cotizado,,
+CT0056,2023-03-02,CL0060,Robles,Rionegro,Apartamento No VIS,117.5,703200000,Feria inmobiliaria,Crédito hipotecario,Desistido,2023-06-02,
+CT0057,2023-03-04,CL0052,Yarumos,Medellín,Apartamento No VIS,113.4,781600000,Sala de ventas,Leasing habitacional,Cotizado,,
+CT0058,2023-03-05,CL0051,Ceibas,Sabaneta,Apartamento VIS,46.6,166700000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0059,2023-03-10,CL0058,Yarumos,Medellín,Apartamento No VIS,114.1,820100000,Sala de ventas,Crédito hipotecario,Separado,,
+CT0060,2023-03-10,CL0047,Ceibas,Sabaneta,Apartamento VIS,51.3,183600000,Sala de ventas,Subsidio y crédito,Vendido,2023-05-02,181600000
+CT0061,2023-03-12,CL0055,Yarumos,Medellín,Apartamento No VIS,92.9,673100000,Feria inmobiliaria,Contado,Desistido,2023-04-15,
+CT0062,2023-03-15,CL0053,Robles,Rionegro,Casa,150.7,891400000,Página web,Contado,Cotizado,,
+CT0063,2023-03-16,CL0054,Robles,Rionegro,Apartamento No VIS,90.0,526600000,Página web,Crédito hipotecario,Cotizado,,
+CT0064,2023-03-16,CL0066,Robles,Rionegro,Apartamento No VIS,100.7,602000000,Sala de ventas,Leasing habitacional,Vendido,2023-06-24,586400000
+CT0065,2023-03-17,CL0048,Yarumos,Medellín,Apartamento No VIS,102.4,721500000,Feria inmobiliaria,Leasing habitacional,Cotizado,,
+CT0066,2023-03-19,CL0009,Robles,Rionegro,Apartamento No VIS,61.5,375400000,Página web,Crédito hipotecario,Separado,,
+CT0067,2023-03-19,CL0065,Arrayanes,Bello,Apartamento VIS,49.5,177100000,Página web,Subsidio y crédito,Cotizado,,
+CT0068,2023-03-20,CL0046,Samanes,Envigado,Casa,146.3,1191100000,Feria inmobiliaria,Crédito hipotecario,Cotizado,,
+CT0069,2023-03-22,CL0063,Guayacanes,Itagüí,Apartamento No VIS,87.4,502300000,Sala de ventas,Contado,Cotizado,,
+CT0070,2023-03-23,CL0049,Samanes,Envigado,Casa,97.0,796600000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0071,2023-03-23,CL0056,Arrayanes,Bello,Apartamento VIS,44.3,158500000,Feria inmobiliaria,Crédito hipotecario,Cotizado,,
+CT0072,2023-03-24,CL0050,Arrayanes,Bello,Apartamento VIS,53.8,192500000,Página web,Subsidio y crédito,Cotizado,,
+CT0073,2023-03-24,CL0061,Ceibas,Sabaneta,Apartamento No VIS,72.8,475600000,Sala de ventas,Contado,Vendido,2023-05-10,455500000
+CT0074,2023-03-25,CL0047,Samanes,Envigado,Apartamento No VIS,105.8,,Página web,Leasing habitacional,Cotizado,,
+CT0075,2023-03-25,CL0059,Yarumos,Medellín,Apartamento No VIS,76.1,518500000,Página web,Leasing habitacional,Cotizado,,
+CT0076,2023-03-25,CL0062,Arrayanes,Bello,Apartamento VIS,51.7,185000000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0077,2023-03-25,CL0067,Arrayanes,Bello,Apartamento VIS,44.7,159900000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0078,2023-03-28,CL0045,Samanes,Envigado,Casa,104.8,818800000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0079,2023-03-30,CL0064,Ceibas,Sabaneta,Apartamento No VIS,66.9,417200000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0080,2023-04-02,CL0084,Yarumos,Medellín,Apartamento No VIS,106.7,748700000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0081,2023-04-03,CL0073,Guayacanes,Itagüí,Apartamento VIS,51.9,185700000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0082,2023-04-03,CL0078,Guayacanes,Itagüí,Apartamento VIS,61.2,219000000,Página web,Subsidio y crédito,Cotizado,,
+CT0083,2023-04-03,CL0083,Ceibas,Sabaneta,Apartamento VIS,45.5,162800000,Sala de ventas,Subsidio y crédito,Separado,,
+CT0084,2023-04-05,CL0087,Guayacanes,Itagüí,Apartamento VIS,57.1,204300000,Sala de ventas,Subsidio y crédito,Separado,,
+CT0085,2023-04-07,CL0082,Robles,Rionegro,Casa,128.5,783200000,Feria inmobiliaria,Crédito hipotecario,Cotizado,,
+CT0086,2023-04-08,CL0071,Yarumos,medellin,Apartamento No VIS,80.2,534700000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0087,2023-04-08,CL0025,Ceibas,Sabaneta,Apartamento No VIS,101.7,688400000,Sala de ventas,Leasing habitacional,Cotizado,,
+CT0088,2023-04-09,CL0070,Samanes,Envigado,Apartamento No VIS,102.6,752900000,Sala de ventas,Contado,Cotizado,,
+CT0089,2023-04-10,CL0068,Robles,Rionegro,Apartamento No VIS,104.0,628600000,Sala de ventas,Leasing habitacional,Cotizado,,
+CT0090,2023-04-11,CL0077,Robles,Rionegro,Apartamento No VIS,113.9,734400000,Sala de ventas,Crédito hipotecario,Vendido,2023-06-04,713800000
+CT0091,2023-04-11,CL0079,Arrayanes,Bello,Apartamento VIS,60.6,216800000,Referido,Subsidio y crédito,Desistido,2023-07-20,
+CT0092,2023-04-12,CL0069,Ceibas,Sabaneta,Apartamento VIS,49.6,177500000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0093,2023-04-12,CL0075,Yarumos,Medellín,Apartamento No VIS,58.7,431500000,Referido,Contado,Separado,,
+CT0094,2023-04-13,CL0079,Ceibas,Sabaneta,Apartamento No VIS,84.5,573400000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0095,2023-04-14,CL0072,Guayacanes,Itagüí,Apartamento VIS,57.3,205000000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0096,2023-04-14,CL0074,Guayacanes,Itagüí,Apartamento No VIS,67.3,400000000,Sala de ventas,Contado,Cotizado,,
+CT0097,2023-04-14,CL0085,Guayacanes,Itagüí,Apartamento No VIS,113.9,650000000,Referido,Contado,Vendido,2023-08-12,642400000
+CT0098,2023-04-14,CL0072,Robles,Rionegro,Apartamento No VIS,118.0,757900000,Referido,Leasing habitacional,Separado,,
+CT0099,2023-04-16,CL0086,Guayacanes,Itagüí,Apartamento VIS,59.9,214300000,Sala de ventas,Crédito hipotecario,Vendido,2023-06-08,213500000
+CT0100,2023-04-19,CL0081,Ceibas,Sabaneta,Apartamento No VIS,113.5,786700000,Sala de ventas,Leasing habitacional,Cotizado,,
+CT0101,2023-04-24,CL0076,Samanes,Envigado,Casa,159.8,1317200000,Feria inmobiliaria,Contado,Vendido,2023-08-02,1251700000
+CT0102,2023-04-26,CL0080,Ceibas,Sabaneta,Apartamento No VIS,112.4,710700000,Página web,Crédito hipotecario,Cotizado,,
+CT0103,2023-05-02,CL0103,Guayacanes,Itagüí,Apartamento No VIS,98.3,575000000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0104,2023-05-02,CL0112,Ceibas,Sabaneta,Apartamento No VIS,81.8,567700000,Sala de ventas,Leasing habitacional,Cotizado,,
+CT0105,2023-05-03,CL0094,Robles,Rionegro,Casa,105.3,653700000,Sala de ventas,Contado,Cotizado,,
+CT0106,2023-05-04,CL0104,Ceibas,Sabaneta,Apartamento VIS,51.2,183200000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0107,2023-05-05,CL0099,Ceibas,Sabaneta,Apartamento VIS,54.6,195400000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0108,2023-05-05,CL0108,Robles,Rionegro,Apartamento No VIS,108.5,697100000,Página web,Contado,Cotizado,,
+CT0109,2023-05-06,CL0073,Ceibas,Sabaneta,Apartamento VIS,58.9,210700000,Feria inmobiliaria,Subsidio y crédito,Vendido,2023-06-08,203400000
+CT0110,2023-05-06,CL0101,Robles,Rionegro,Apartamento No VIS,82.1,510500000,Página web,Contado,Cotizado,,
+CT0111,2023-05-07,CL0091,Yarumos,Medellín,Apartamento No VIS,117.0,800600000,Sala de ventas,Contado,Vendido,2023-07-22,795500000
+CT0112,2023-05-08,CL0113,Yarumos,Medellín,Apartamento No VIS,85.7,612500000,Sala de ventas,Leasing habitacional,Desistido,2023-08-24,
+CT0113,2023-05-09,CL0106,Guayacanes,Itagüí,Apartamento No VIS,117.0,630800000,Referido,Crédito hipotecario,Vendido,2023-07-28,599700000
+CT0114,2023-05-12,CL0111,Ceibas,Sabaneta,Apartamento VIS,59.2,211800000,Referido,Subsidio y crédito,Vendido,2023-08-04,210700000
+CT0115,2023-05-14,CL0092,Yarumos,Medellín,Apartamento No VIS,74.4,506600000,Feria inmobiliaria,Crédito hipotecario,Vendido,2023-07-21,494400000
+CT0116,2023-05-15,CL0100,Yarumos,Medellín,Apartamento No VIS,66.7,473100000,Sala de ventas,Crédito hipotecario,Vendido,2023-07-24,454600000
+CT0117,2023-05-16,CL0097,Samanes,Envigado,Casa,161.3,1312400000,Sala de ventas,Leasing habitacional,Vendido,2023-08-23,1260000000
+CT0118,2023-05-17,CL0088,Robles,Rionegro,Apartamento No VIS,90.2,538200000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0119,2023-05-19,CL0089,Robles,Rionegro,Apartamento No VIS,105.0,650800000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0120,2023-05-21,CL0090,Arrayanes,Bello,Apartamento VIS,58.9,210700000,Página web,Subsidio y crédito,Cotizado,,
+CT0121,2023-05-21,CL0095,Samanes,Envigado,Casa,138.4,1118900000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0122,2023-05-21,CL0109,Robles,Rionegro,Apartamento No VIS,94.0,,Referido,Crédito hipotecario,Vendido,2023-08-02,583100000
+CT0123,2023-05-23,CL0096,Guayacanes,Itagüí,Apartamento VIS,58.4,209000000,Referido,Subsidio y crédito,Vendido,2023-08-17,208800000
+CT0124,2023-05-24,CL0102,Guayacanes,Itagüí,Apartamento No VIS,117.0,699900000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0125,2023-05-25,CL0110,Yarumos,Medellín,Apartamento No VIS,77.7,537300000,Página web,Crédito hipotecario,Cotizado,,
+CT0126,2023-05-26,CL0087,Ceibas,Sabaneta,Apartamento No VIS,116.9,825100000,Página web,Crédito hipotecario,Vendido,2023-08-01,825000000
+CT0127,2023-05-28,CL0098,Arrayanes,Bello,Apartamento VIS,50.1,179300000,Página web,Crédito hipotecario,Cotizado,,
+CT0128,2023-05-31,CL0093,Ceibas,Sabaneta,Apartamento VIS,48.6,173900000,Referido,Crédito hipotecario,Vendido,2023-07-23,168700000
+CT0129,2023-05-31,CL0105,Arrayanes,Bello,Apartamento VIS,47.6,170300000,Sala de ventas,Subsidio y crédito,Vendido,2023-09-07,164700000
+CT0130,2023-05-31,CL0107,Samanes,Envigado ,Apartamento No VIS,86.3,645100000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0131,2023-06-01,CL0119,Ceibas,Sabaneta,Apartamento VIS,58.0,207500000,Referido,Crédito hipotecario,Vendido,2023-07-16,200500000
+CT0132,2023-06-02,CL0129,Guayacanes,Itagüí,Apartamento VIS,55.3,197900000,Feria inmobiliaria,Subsidio y crédito,Separado,,
+CT0133,2023-06-03,CL0065,Arrayanes,Bello,Apartamento VIS,49.4,176800000,Referido,Subsidio y crédito,Separado,,
+CT0134,2023-06-03,CL0133,Robles,Rionegro,Casa,120.5,685900000,Feria inmobiliaria,Crédito hipotecario,Cotizado,,
+CT0135,2023-06-04,CL0127,Arrayanes,Bello,Apartamento VIS,59.6,213200000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0136,2023-06-08,CL0117,Arrayanes,Bello,Apartamento VIS,58.6,209700000,Referido,Crédito hipotecario,Vendido,2023-07-25,201500000
+CT0137,2023-06-09,CL0118,Guayacanes,Itagüí,Apartamento No VIS,116.0,622400000,Referido,Contado,Cotizado,,
+CT0138,2023-06-10,CL0126,Robles,Rionegro,Apartamento No VIS,62.4,368600000,Referido,Contado,Vendido,2023-08-15,365100000
+CT0139,2023-06-11,CL0132,Arrayanes,Bello,Apartamento VIS,56.6,202500000,Sala de ventas,Subsidio y crédito,Vendido,2023-08-11,195700000
+CT0140,2023-06-12,CL0131,Arrayanes,Bello,Apartamento VIS,56.8,203200000,Feria inmobiliaria,Crédito hipotecario,Cotizado,,
+CT0141,2023-06-13,CL0125,Ceibas,Sabaneta,Apartamento No VIS,102.6,709600000,Página web,Crédito hipotecario,Cotizado,,
+CT0142,2023-06-14,CL0114,Guayacanes,Itagüí,Apartamento No VIS,60.6,361700000,Página web,Leasing habitacional,Separado,,
+CT0143,2023-06-14,CL0123,Ceibas,Sabaneta,Apartamento No VIS,116.4,792800000,Sala de ventas,Crédito hipotecario,Vendido,2023-07-27,791600000
+CT0144,2023-06-16,CL0124,Robles,Rionegro,Casa,145.5,897800000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0145,2023-06-16,CL0135,Ceibas,Sabaneta,Apartamento VIS,47.4,169600000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0146,2023-06-17,CL0116,Ceibas,Sabaneta,Apartamento No VIS,91.2,563200000,Sala de ventas,Crédito hipotecario,Vendido,2023-09-08,562700000
+CT0147,2023-06-17,CL0117,Ceibas,Sabaneta,Apartamento No VIS,92.3,620200000,Sala de ventas,Leasing habitacional,Vendido,2023-09-20,595800000
+CT0148,2023-06-18,CL0115,Ceibas,Sabaneta,Apartamento VIS,46.4,166000000,Feria inmobiliaria,Contado,Vendido,2023-09-06,162200000
+CT0149,2023-06-18,CL0128,Robles,Rionegro,Casa,127.1,736800000,Sala de ventas,Contado,Cotizado,,
+CT0150,2023-06-24,CL0120,Ceibas,Sabaneta,Apartamento VIS,49.2,176000000,Referido,Contado,Vendido,2023-08-31,175900000
+CT0151,2023-06-24,CL0134,Arrayanes,Bello,Apartamento VIS,62.0,221800000,Sala de ventas,Contado,Cotizado,,
+CT0152,2023-06-24,CL0136,Ceibas,Sabaneta,Apartamento VIS,58.9,210700000,Sala de ventas,Subsidio y crédito,Separado,,
+CT0153,2023-06-25,CL0130,Robles,Rionegro,Casa,105.2,630400000,Sala de ventas,Leasing habitacional,Cotizado,,
+CT0154,2023-06-27,CL0121,Ceibas,Sabaneta,Apartamento No VIS,72.7,490900000,Referido,Contado,Cotizado,,
+CT0155,2023-06-29,CL0122,Robles,Rionegro,Apartamento No VIS,115.5,694700000,Página web,Crédito hipotecario,Cotizado,,
+CT0156,2023-06-29,CL0084,Ceibas,Sabaneta,Apartamento VIS,52.3,187100000,Página web,Crédito hipotecario,Cotizado,,
+CT0157,2023-07-04,CL0141,Yarumos,Medellín,Apartamento No VIS,66.8,448000000,Sala de ventas,Crédito hipotecario,Desistido,2023-09-18,
+CT0158,2023-07-05,CL0115,Robles,Rionegro,Casa,146.9,880900000,Sala de ventas,Contado,Cotizado,,
+CT0159,2023-07-05,CL0095,Robles,Rionegro,Apartamento No VIS,79.1,503600000,Página web,Leasing habitacional,Cotizado,,
+CT0160,2023-07-06,CL0146,Yarumos,Medellín,Apartamento No VIS,91.9,643400000,Sala de ventas,Leasing habitacional,Vendido,2023-09-05,625400000
+CT0161,2023-07-08,CL0142,Guayacanes,Itagüí,Apartamento VIS,55.5,198600000,Sala de ventas,Contado,Separado,,
+CT0162,2023-07-09,CL0152,Samanes,Envigado,Casa,134.9,972000000,Referido,Contado,Cotizado,,
+CT0163,2023-07-09,CL0153,Guayacanes,Itagüí,Apartamento No VIS,69.6,413900000,Página web,Crédito hipotecario,Cotizado,,
+CT0164,2023-07-11,CL0155,Yarumos,Medellín,Apartamento No VIS,80.2,536700000,Referido,Crédito hipotecario,Desistido,2023-09-30,
+CT0165,2023-07-12,CL0143,Ceibas,Sabaneta,Apartamento No VIS,105.6,662800000,Referido,Crédito hipotecario,Vendido,2023-11-08,646300000
+CT0166,2023-07-12,CL0154,Arrayanes,Bello,Apartamento VIS,47.0,168200000,Feria inmobiliaria,Crédito hipotecario,Cotizado,,
+CT0167,2023-07-13,CL0122,Yarumos,Medellín,Apartamento No VIS,115.9,868500000,Feria inmobiliaria,Contado,Vendido,2023-10-03,834000000
+CT0168,2023-07-15,CL0137,Samanes,Envigado,Apartamento No VIS,88.2,727400000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0169,2023-07-15,CL0157,Arrayanes,Bello,Apartamento VIS,50.6,181000000,Página web,Subsidio y crédito,Cotizado,,
+CT0170,2023-07-16,CL0144,Samanes,Envigado,Apartamento No VIS,105.7,773300000,Página web,Crédito hipotecario,Cotizado,,
+CT0171,2023-07-18,CL0140,Yarumos,Medellín,Apartamento No VIS,99.6,674300000,Página web,Crédito hipotecario,Vendido,2023-10-26,650000000
+CT0172,2023-07-18,CL0145,Robles,Rionegro,Casa,148.5,911300000,Sala de ventas,Crédito hipotecario,Vendido,2023-09-17,876200000
+CT0173,2023-07-18,CL0090,Robles,Rionegro,Apartamento No VIS,71.9,424300000,Sala de ventas,Crédito hipotecario,Vendido,2023-10-14,417500000
+CT0174,2023-07-18,CL0151,Samanes,Envigado,Apartamento No VIS,93.8,681800000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0175,2023-07-18,CL0156,Robles,Rionegro,Casa,100.0,596700000,Feria inmobiliaria,Contado,Separado,,
+CT0176,2023-07-19,CL0087,Guayacanes,Itagüí,Apartamento No VIS,90.7,497200000,Referido,Crédito hipotecario,Cotizado,,
+CT0177,2023-07-19,CL0148,Yarumos,Medellín,Apartamento No VIS,81.6,576500000,Sala de ventas,Leasing habitacional,Vendido,2023-09-07,559200000
+CT0178,2023-07-22,CL0140,Guayacanes,Itagüí,Apartamento No VIS,83.4,493300000,Feria inmobiliaria,Crédito hipotecario,Separado,,
+CT0179,2023-07-27,CL0147,Samanes,Envigado,Apartamento No VIS,94.3,721400000,Página web,Leasing habitacional,Desistido,2023-09-07,
+CT0180,2023-07-29,CL0139,Guayacanes,Itagüí,Apartamento VIS,55.0,196800000,Página web,Subsidio y crédito,Vendido,2023-10-17,187600000
+CT0181,2023-07-29,CL0149,Robles,Rionegro,Apartamento No VIS,105.8,636600000,Página web,Contado,Vendido,2023-11-19,612700000
+CT0182,2023-07-30,CL0138,Samanes,Envigado,Casa,137.0,1094000000,Referido,Contado,Vendido,2023-10-11,1052600000
+CT0183,2023-07-30,CL0150,Guayacanes,Itagüí,Apartamento No VIS,75.8,434300000,Referido,Leasing habitacional,Separado,,
+CT0184,2023-07-31,CL0116,Ceibas,Sabaneta,Apartamento VIS,52.6,188200000,Referido,Subsidio y crédito,Vendido,2023-09-02,187700000
+CT0185,2023-08-04,CL0174,Yarumos,Medellín,Apartamento No VIS,76.4,504600000,Página web,Crédito hipotecario,Separado,,
+CT0186,2023-08-05,CL0128,Robles,Rionegro,Casa,122.3,783400000,Referido,Contado,Vendido,2023-11-19,782600000
+CT0187,2023-08-05,CL0176,Ceibas,Sabaneta,Apartamento VIS,59.7,213600000,Página web,Crédito hipotecario,Vendido,2023-11-11,205300000
+CT0188,2023-08-06,CL0161,Robles,Rionegro,Apartamento No VIS,108.4,692000000,Feria inmobiliaria,Leasing habitacional,Cotizado,,
+CT0189,2023-08-08,CL0163,Arrayanes,Bello,Apartamento VIS,61.8,221100000,Página web,Subsidio y crédito,Vendido,2023-11-13,220200000
+CT0190,2023-08-09,CL0166,Samanes,Envigado,Apartamento No VIS,105.2,782700000,Referido,Crédito hipotecario,Cotizado,,
+CT0191,2023-08-11,CL0162,Ceibas,Sabaneta,Apartamento VIS,45.5,162800000,Página web,Subsidio y crédito,Vendido,2023-10-03,157600000
+CT0192,2023-08-11,CL0168,Ceibas,Sabaneta,Apartamento No VIS,89.2,583800000,Feria inmobiliaria,Leasing habitacional,Cotizado,,
+CT0193,2023-08-12,CL0170,Guayacanes,Itagüí,Apartamento No VIS,63.0,353900000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0194,2023-08-14,CL0158,Guayacanes,Itagüí,Apartamento No VIS,90.7,521500000,Feria inmobiliaria,Crédito hipotecario,Cotizado,,
+CT0195,2023-08-14,CL0148,Robles,Rionegro,Casa,106.7,636100000,Página web,Crédito hipotecario,Cotizado,,
+CT0196,2023-08-17,CL0175,Ceibas,Sabaneta,Apartamento No VIS,83.4,589100000,Página web,Contado,Vendido,2023-11-08,577300000
+CT0197,2023-08-18,CL0173,Guayacanes,Itagüí,Apartamento No VIS,67.6,384400000,Sala de ventas,Crédito hipotecario,Separado,,
+CT0198,2023-08-18,CL0177,Ceibas,Sabaneta,Apartamento VIS,57.4,205400000,Sala de ventas,Subsidio y crédito,Separado,,
+CT0199,2023-08-19,CL0146,Yarumos,Medellín,Apartamento No VIS,74.0,540900000,Sala de ventas,Contado,Vendido,2023-11-27,527600000
+CT0200,2023-08-19,CL0164,Arrayanes,Bello,Apartamento VIS,54.9,196400000,Referido,Subsidio y crédito,Cotizado,,
+CT0201,2023-08-20,CL0171,Yarumos,Medellín,Apartamento No VIS,62.8,457000000,Referido,Crédito hipotecario,Cotizado,,
+CT0202,2023-08-21,CL0162,Samanes,Envigado,Apartamento No VIS,90.9,684400000,Feria inmobiliaria,Crédito hipotecario,Cotizado,,
+CT0203,2023-08-22,CL0154,Guayacanes,Itagüí,Apartamento No VIS,67.0,383500000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0204,2023-08-25,CL0159,Arrayanes,Bello,Apartamento VIS,60.4,216100000,Sala de ventas,Subsidio y crédito,Vendido,2023-11-29,213400000
+CT0205,2023-08-25,CL0169,Guayacanes,Itagüí,Apartamento VIS,56.0,200400000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0206,2023-08-25,CL0174,Arrayanes,Bello,Apartamento VIS,49.4,176800000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0207,2023-08-28,CL0165,Yarumos,Medellín,Apartamento No VIS,60.5,441000000,Página web,Crédito hipotecario,Cotizado,,
+CT0208,2023-08-29,CL0160,Yarumos,Medellín,Apartamento No VIS,61.6,428100000,Sala de ventas,Leasing habitacional,Cotizado,,
+CT0209,2023-08-29,CL0167,Guayacanes,Itagüí,Apartamento No VIS,82.4,431800000,Feria inmobiliaria,Crédito hipotecario,Cotizado,,
+CT0210,2023-08-30,CL0172,Guayacanes,Itagüí,Apartamento VIS,56.8,203200000,Feria inmobiliaria,Subsidio y crédito,Cotizado,,
+CT0211,2023-09-02,CL0193,Robles,Rionegro,Apartamento No VIS,78.4,444400000,Página web,Leasing habitacional,Cotizado,,
+CT0212,2023-09-03,CL0181,Arrayanes,Bello,Apartamento VIS,52.9,189300000,Sala de ventas,Crédito hipotecario,Separado,,
+CT0213,2023-09-03,CL0191,Ceibas,Sabaneta,Apartamento No VIS,90.8,638800000,Página web,Contado,Separado,,
+CT0214,2023-09-07,CL0196,Yarumos,Medellín,Apartamento No VIS,106.9,793900000,Referido,Contado,Vendido,2023-11-27,777400000
+CT0215,2023-09-08,CL0144,Robles,Rionegro,Casa,142.1,918000000,Referido,Crédito hipotecario,Vendido,2024-01-06,877800000
+CT0216,2023-09-09,CL0179,Robles,Rionegro,Casa,97.6,571300000,Sala de ventas,Leasing habitacional,Vendido,2023-11-08,543200000
+CT0217,2023-09-09,CL0164,Arrayanes,Bello,Apartamento VIS,57.2,204700000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0218,2023-09-09,CL0197,Robles,Rionegro,Apartamento No VIS,94.5,607300000,Feria inmobiliaria,Leasing habitacional,Cotizado,,
+CT0219,2023-09-12,CL0190,Ceibas,Sabaneta,Apartamento No VIS,86.0,572400000,Sala de ventas,Leasing habitacional,Vendido,2023-12-05,546800000
+CT0220,2023-09-16,CL0186,Yarumos,Medellín,Apartamento No VIS,70.1,508400000,Feria inmobiliaria,Crédito hipotecario,Desistido,2023-12-06,
+CT0221,2023-09-16,CL0189,Guayacanes,Itagüí,Apartamento VIS,57.1,204300000,Página web,Contado,Cotizado,,
+CT0222,2023-09-17,CL0184,Yarumos,Medellín,Apartamento No VIS,112.1,739100000,Referido,Crédito hipotecario,Vendido,2023-12-19,730600000
+CT0223,2023-09-17,CL0201,Guayacanes,Itagüí,Apartamento VIS,45.1,161400000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0224,2023-09-19,CL0192,Yarumos,Medellín,Apartamento No VIS,74.8,512500000,Sala de ventas,Contado,Vendido,2023-11-20,505400000
+CT0225,2023-09-20,CL0182,Samanes,Envigado,Casa,138.9,1020600000,Feria inmobiliaria,Crédito hipotecario,Cotizado,,
+CT0226,2023-09-21,CL0185,Yarumos,Medellín,Apartamento No VIS,74.8,552000000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0227,2023-09-21,CL0198,Yarumos,Medellín,Apartamento No VIS,89.7,638000000,Sala de ventas,Contado,Vendido,2023-11-25,629900000
+CT0228,2023-09-22,CL0180,Yarumos,Medellín,Apartamento No VIS,106.5,709600000,Página web,Crédito hipotecario,Cotizado,,
+CT0229,2023-09-22,CL0164,Guayacanes,Itagüí,Apartamento No VIS,79.1,422100000,Sala de ventas,Contado,Separado,,
+CT0230,2023-09-23,CL0187,Yarumos,Medellín,Apartamento No VIS,83.2,588000000,Página web,Leasing habitacional,Cotizado,,
+CT0231,2023-09-23,CL0141,Ceibas,Sabaneta,Apartamento No VIS,91.6,629300000,Página web,Crédito hipotecario,Cotizado,,
+CT0232,2023-09-23,CL0200,Yarumos,Medellín,Apartamento No VIS,63.9,477600000,Feria inmobiliaria,Contado,Vendido,2023-11-04,464700000
+CT0233,2023-09-24,CL0183,Robles,Rionegro,Apartamento No VIS,76.6,451400000,Página web,Crédito hipotecario,Cotizado,,
+CT0234,2023-09-24,CL0188,Samanes,Envigado,Apartamento No VIS,104.9,833700000,Página web,Crédito hipotecario,Cotizado,,
+CT0235,2023-09-24,CL0199,Samanes,Envigado,Casa,123.6,999200000,Feria inmobiliaria,Crédito hipotecario,Vendido,2023-10-31,979900000
+CT0236,2023-09-25,CL0140,Guayacanes,Itagüí,Apartamento VIS,51.0,182500000,Feria inmobiliaria,Subsidio y crédito,Vendido,2023-11-15,179700000
+CT0237,2023-09-25,CL0194,Robles,Rionegro,Apartamento No VIS,97.3,563100000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0238,2023-09-26,CL0178,Ceibas,Sabaneta,Apartamento No VIS,93.0,653200000,Referido,Contado,Cotizado,,
+CT0239,2023-09-30,CL0195,Guayacanes,Itagüí,Apartamento No VIS,116.4,699300000,Página web,Crédito hipotecario,Cotizado,,
+CT0240,2023-10-01,CL0222,Samanes,Envigado,Casa,164.9,1247100000,Página web,Crédito hipotecario,Separado,,
+CT0241,2023-10-02,CL0207,Ceibas,Sabaneta,Apartamento No VIS,89.9,585800000,Sala de ventas,Crédito hipotecario,Vendido,2023-11-24,557400000
+CT0242,2023-10-03,CL0214,Robles,Rionegro,Apartamento No VIS,83.4,488300000,Sala de ventas,Crédito hipotecario,Vendido,2024-01-11,473000000
+CT0243,2023-10-05,CL0224,Guayacanes,Itagüí,Apartamento No VIS,92.6,506900000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0244,2023-10-09,CL0209,Arrayanes,Bello,Apartamento VIS,58.0,207500000,Sala de ventas,Subsidio y crédito,Vendido,2023-11-17,200500000
+CT0245,2023-10-09,CL0216,Yarumos,Medellín,Apartamento No VIS,95.5,654500000,Feria inmobiliaria,Leasing habitacional,Vendido,2024-01-25,640700000
+CT0246,2023-10-10,CL0211,Arrayanes,Bello,Apartamento VIS,56.4,201800000,Página web,Crédito hipotecario,Cotizado,,
+CT0247,2023-10-10,CL0221,Arrayanes,Bello,Apartamento VIS,51.3,183600000,Referido,Crédito hipotecario,Vendido,2024-02-01,177900000
+CT0248,2023-10-11,CL0217,Guayacanes,Itagüí,Apartamento VIS,61.9,221500000,Página web,Subsidio y crédito,Desistido,2024-02-08,
+CT0249,2023-10-12,CL0220,Arrayanes,Bello,Apartamento VIS,58.4,209000000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0250,2023-10-13,CL0205,Robles,Rionegro,Casa,118.7,739600000,Feria inmobiliaria,Contado,Cotizado,,
+CT0251,2023-10-13,CL0223,Samanes,Envigado,Casa,144.1,1170200000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0252,2023-10-17,CL0228,Arrayanes,Bello,Apartamento VIS,53.9,192900000,Página web,Subsidio y crédito,Desistido,2024-02-10,
+CT0253,2023-10-18,CL0208,Yarumos,Medellín,Apartamento No VIS,78.5,555500000,Sala de ventas,Contado,Cotizado,,
+CT0254,2023-10-21,CL0218,Guayacanes,Itagüí,Apartamento VIS,49.5,177100000,Sala de ventas,Subsidio y crédito,Separado,,
+CT0255,2023-10-25,CL0215,Yarumos,Medellín,Apartamento No VIS,114.0,839300000,Sala de ventas,Contado,Cotizado,,
+CT0256,2023-10-26,CL0202,Yarumos,Medellín,Apartamento No VIS,87.2,642000000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0257,2023-10-27,CL0227,Ceibas,Sabaneta,Apartamento VIS,52.9,189300000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0258,2023-10-28,CL0204,Samanes,Envigado,Casa,104.3,829000000,Referido,Crédito hipotecario,Cotizado,,
+CT0259,2023-10-28,CL0213,Ceibas,Sabaneta,Apartamento No VIS,116.3,720400000,Página web,Contado,Cotizado,,
+CT0260,2023-10-28,CL0225,Robles,Rionegro,Apartamento No VIS,115.1,734000000,Feria inmobiliaria,Leasing habitacional,Cotizado,,
+CT0261,2023-10-29,CL0203,Ceibas,Sabaneta,Apartamento VIS,44.9,160700000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0262,2023-10-29,CL0210,Guayacanes,Itagüí,Apartamento No VIS,69.7,399500000,Página web,Crédito hipotecario,Vendido,2023-12-12,380800000
+CT0263,2023-10-29,CL0212,Arrayanes,Bello,Apartamento VIS,58.3,208600000,Sala de ventas,Subsidio y crédito,Separado,,
+CT0264,2023-10-31,CL0206,Ceibas,Sabaneta,Apartamento VIS,57.5,205700000,Feria inmobiliaria,Contado,Cotizado,,
+CT0265,2023-10-31,CL0219,Guayacanes,Itagüí,Apartamento VIS,48.1,172100000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0266,2023-10-31,CL0226,Arrayanes,Bello,Apartamento VIS,54.8,196100000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0267,2023-11-01,CL0193,Arrayanes,Bello,Apartamento VIS,50.7,181400000,Página web,Subsidio y crédito,Cotizado,,
+CT0268,2023-11-02,CL0236,Yarumos,Medellín,Apartamento No VIS,97.6,686400000,Sala de ventas,Leasing habitacional,Vendido,2023-12-06,663800000
+CT0269,2023-11-02,CL0251,Ceibas,Sabaneta,Apartamento No VIS,114.5,790600000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0270,2023-11-04,CL0248,Guayacanes,Itagüí,Apartamento VIS,57.8,206800000,Sala de ventas,Contado,Vendido,2023-12-15,200600000
+CT0271,2023-11-05,CL0232,Arrayanes,Bello,Apartamento VIS,55.8,199700000,Referido,Contado,Vendido,2024-01-01,197800000
+CT0272,2023-11-05,CL0250,Ceibas,Sabaneta,Apartamento No VIS,87.6,575700000,Referido,Crédito hipotecario,Cotizado,,
+CT0273,2023-11-06,CL0249,Samanes,Envigado,Apartamento No VIS,109.5,834900000,Feria inmobiliaria,Leasing habitacional,Desistido,2024-01-24,
+CT0274,2023-11-07,CL0241,Arrayanes,Bello,Apartamento VIS,51.8,185300000,Sala de ventas,Subsidio y crédito,Vendido,2024-01-31,177400000
+CT0275,2023-11-08,CL0237,Robles,Rionegro,Casa,147.5,881300000,Sala de ventas,Contado,Cotizado,,
+CT0276,2023-11-09,CL0235,Yarumos,Medellín,Apartamento No VIS,83.5,573700000,Feria inmobiliaria,Crédito hipotecario,Cotizado,,
+CT0277,2023-11-09,CL0243,Arrayanes,Bello,Apartamento VIS,57.4,205400000,Sala de ventas,Crédito hipotecario,Vendido,2023-12-17,203000000
+CT0278,2023-11-11,CL0234,Samanes,Envigado,Casa,100.8,805200000,Feria inmobiliaria,Contado,Vendido,2023-12-11,777300000
+CT0279,2023-11-12,CL0239,Ceibas,Sabaneta,Apartamento No VIS,100.1,632400000,Sala de ventas,Crédito hipotecario,Separado,,
+CT0280,2023-11-13,CL0240,Arrayanes,Bello,Apartamento VIS,49.8,178200000,Referido,Crédito hipotecario,Cotizado,,
+CT0281,2023-11-14,CL0242,Arrayanes,Bello,Apartamento VIS,60.3,215800000,Sala de ventas,Crédito hipotecario,Desistido,2023-12-23,
+CT0282,2023-11-15,CL0229,Yarumos,Medellín,Apartamento No VIS,107.2,753900000,Página web,Leasing habitacional,Cotizado,,
+CT0283,2023-11-16,CL0233,Guayacanes,Itagüí,Apartamento VIS,57.8,206800000,Feria inmobiliaria,Subsidio y crédito,Desistido,2024-01-26,
+CT0284,2023-11-17,CL0245,Samanes,Envigado,Apartamento No VIS,78.7,651000000,Sala de ventas,Leasing habitacional,Desistido,2024-03-04,
+CT0285,2023-11-20,CL0218,Arrayanes,Bello,Apartamento VIS,44.3,158500000,Página web,Subsidio y crédito,Separado,,
+CT0286,2023-11-22,CL0244,Arrayanes,Bello,Apartamento VIS,46.0,164600000,Feria inmobiliaria,Subsidio y crédito,Cotizado,,
+CT0287,2023-11-23,CL0228,Guayacanes,Itagüí,Apartamento VIS,59.4,212500000,Sala de ventas,Subsidio y crédito,Separado,,
+CT0288,2023-11-24,CL0238,Yarumos,Medellín,Apartamento No VIS,84.5,613500000,Referido,Leasing habitacional,Cotizado,,
+CT0289,2023-11-24,CL0247,Samanes,Envigado,Casa,100.6,754800000,Sala de ventas,Contado,Cotizado,,
+CT0290,2023-11-25,CL0217,Samanes,Envigado,Apartamento No VIS,89.0,720900000,Referido,Crédito hipotecario,Desistido,2024-02-16,
+CT0291,2023-11-26,CL0200,Ceibas,Sabaneta,Apartamento VIS,48.1,172100000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0292,2023-11-26,CL0231,Robles,Rionegro,Apartamento No VIS,58.1,353900000,Página web,Crédito hipotecario,Cotizado,,
+CT0293,2023-11-26,CL0246,Guayacanes,Itagüí,Apartamento No VIS,116.3,665700000,Sala de ventas,Contado,Cotizado,,
+CT0294,2023-11-30,CL0230,Guayacanes,Itagüí,Apartamento No VIS,108.5,608600000,Feria inmobiliaria,Crédito hipotecario,Separado,,
+CT0295,2023-12-01,CL0254,Arrayanes,Bello,Apartamento VIS,49.4,176800000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0296,2023-12-01,CL0255,Yarumos,Medellín,Apartamento No VIS,78.6,536700000,Referido,Leasing habitacional,Cotizado,,
+CT0297,2023-12-01,CL0266,Robles,Rionegro,Apartamento No VIS,89.2,551600000,Feria inmobiliaria,Leasing habitacional,Vendido,2024-03-27,539800000
+CT0298,2023-12-02,CL0259,Samanes,Envigado,Apartamento No VIS,105.9,816200000,Sala de ventas,Crédito hipotecario,Separado,,
+CT0299,2023-12-03,CL0217,Yarumos,Medellín,Apartamento No VIS,113.6,753200000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0300,2023-12-04,CL0261,Robles,Rionegro,Apartamento No VIS,60.7,391400000,Sala de ventas,Leasing habitacional,Cotizado,,
+CT0301,2023-12-04,CL0269,Guayacanes,Itagüí,Apartamento No VIS,85.8,515900000,Sala de ventas,Leasing habitacional,Vendido,2024-02-29,504100000
+CT0302,2023-12-07,CL0252,Yarumos,Medellín,Apartamento No VIS,69.1,491300000,Sala de ventas,Contado,Cotizado,,
+CT0303,2023-12-07,CL0264,Guayacanes,Itagüí,Apartamento VIS,47.3,169200000,Página web,Subsidio y crédito,Cotizado,,
+CT0304,2023-12-08,CL0253,Ceibas,Sabaneta,Apartamento No VIS,104.7,737500000,Sala de ventas,Leasing habitacional,Cotizado,,
+CT0305,2023-12-09,CL0257,Ceibas,Sabaneta,Apartamento No VIS,88.9,571300000,Referido,Contado,Vendido,2024-03-22,568000000
+CT0306,2023-12-09,CL0270,Arrayanes,Bello,Apartamento VIS,46.6,166700000,Referido,Crédito hipotecario,Vendido,2024-03-22,166500000
+CT0307,2023-12-09,CL0271,Arrayanes,Bello,Apartamento VIS,50.2,179600000,Página web,Subsidio y crédito,Cotizado,,
+CT0308,2023-12-10,CL0223,Robles,Rionegro,Casa,160.2,959400000,Referido,Contado,Vendido,2024-01-12,937200000
+CT0309,2023-12-12,CL0262,Guayacanes,Itagüí,Apartamento VIS,61.0,218300000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0310,2023-12-17,CL0241,Ceibas,Sabaneta,Apartamento No VIS,82.4,517500000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0311,2023-12-23,CL0216,Arrayanes,Bello,Apartamento VIS,53.4,191100000,Feria inmobiliaria,Subsidio y crédito,Vendido,2024-01-30,184600000
+CT0312,2023-12-23,CL0260,Robles,Rionegro,Casa,95.9,623400000,Sala de ventas,Contado,Desistido,2024-03-15,
+CT0313,2023-12-24,CL0267,Ceibas,Sabaneta,Apartamento VIS,57.0,203900000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0314,2023-12-24,CL0272,Yarumos,Medellín,Apartamento No VIS,65.4,474600000,Página web,Crédito hipotecario,Cotizado,,
+CT0315,2023-12-27,CL0256,Guayacanes,Itagüí,Apartamento VIS,57.9,207200000,Referido,Subsidio y crédito,Vendido,2024-03-04,205900000
+CT0316,2023-12-29,CL0258,Yarumos,Medellín,Apartamento No VIS,62.4,461300000,Página web,Leasing habitacional,Cotizado,,
+CT0317,2023-12-29,CL0263,Ceibas,Sabaneta,Apartamento No VIS,59.4,393600000,Página web,Crédito hipotecario,Desistido,2024-01-31,
+CT0318,2023-12-30,CL0265,Guayacanes,Itagüí,Apartamento No VIS,93.1,502200000,Sala de ventas,Leasing habitacional,Cotizado,,
+CT0319,2023-12-30,CL0268,Robles,Rionegro,Casa,161.0,922100000,Feria inmobiliaria,Leasing habitacional,Cotizado,,
+CT0320,2023-12-31,CL0219,Arrayanes,Bello,Apartamento VIS,58.7,210000000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0321,2024-01-03,CL0255,Arrayanes,Bello,Apartamento VIS,48.0,187200000,Referido,Crédito hipotecario,Cotizado,,
+CT0322,2024-01-03,CL0284,Arrayanes,Bello,Apartamento VIS,61.7,240600000,Página web,Crédito hipotecario,Vendido,2024-03-02,239400000
+CT0323,2024-01-04,CL0278,Ceibas,Sabaneta,Apartamento No VIS,72.7,487700000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0324,2024-01-05,CL0282,Guayacanes,Itagüí,Apartamento VIS,48.0,187200000,Referido,Crédito hipotecario,Cotizado,,
+CT0325,2024-01-07,CL0231,Arrayanes,Bello,Apartamento VIS,61.2,238700000,Feria inmobiliaria,Subsidio y crédito,Desistido,2024-02-09,231500000
+CT0326,2024-01-07,CL0240,Guayacanes,Itagüí,Apartamento VIS,53.2,207500000,Página web,Crédito hipotecario,Cotizado,,
+CT0327,2024-01-08,CL0273,Yarumos,Medellín,Apartamento No VIS,97.7,786900000,Página web,Contado,Vendido,2024-03-03,766600000
+CT0328,2024-01-09,CL0280,Yarumos,Medellín,Apartamento No VIS,75.3,574900000,Feria inmobiliaria,Leasing habitacional,Vendido,2024-03-22,557600000
+CT0329,2024-01-10,CL0275,Samanes,Envigado,Casa,141.2,1211600000,Página web,Crédito hipotecario,Cotizado,,
+CT0330,2024-01-11,CL0288,Yarumos,Medellín,Apartamento No VIS,90.7,647200000,Feria inmobiliaria,Crédito hipotecario,Vendido,2024-04-11,620800000
+CT0331,2024-01-13,CL0261,Samanes,Envigado,Apartamento No VIS,96.1,776900000,Sala de ventas,Contado,Separado,,
+CT0332,2024-01-14,CL0218,Yarumos,Medellín,Apartamento No VIS,76.4,563100000,Página web,Crédito hipotecario,Cotizado,,
+CT0333,2024-01-14,CL0260,Robles,Rionegro,Casa,107.3,685900000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0334,2024-01-14,CL0272,Guayacanes,Itagüí,Apartamento VIS,48.5,189200000,Referido,Subsidio y crédito,Vendido,2024-04-10,183200000
+CT0335,2024-01-15,CL0287,Samanes,Envigado,Casa,156.5,1403700000,Página web,Crédito hipotecario,Cotizado,,
+CT0336,2024-01-16,CL0274,Guayacanes,Itagüí,Apartamento VIS,58.7,228900000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0337,2024-01-19,CL0281,Guayacanes,Itagüí,Apartamento VIS,58.4,227800000,Sala de ventas,Subsidio y crédito,Desistido,2024-02-24,
+CT0338,2024-01-19,CL0228,Samanes,Envigado,Apartamento No VIS,95.4,784900000,Página web,Leasing habitacional,Separado,,
+CT0339,2024-01-21,CL0283,Ceibas,Sabaneta,Apartamento VIS,54.2,211400000,Feria inmobiliaria,Subsidio y crédito,Vendido,2024-03-18,206700000
+CT0340,2024-01-22,CL0276,Ceibas,Sabaneta,Apartamento VIS,44.8,174700000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0341,2024-01-24,CL0277,Yarumos,Medellín,Apartamento No VIS,74.7,553600000,Página web,Contado,Cotizado,,
+CT0342,2024-01-25,CL0279,Guayacanes,Itagüí,Apartamento VIS,50.0,195000000,Sala de ventas,Crédito hipotecario,Vendido,2024-03-29,188500000
+CT0343,2024-01-29,CL0285,Robles,Rionegro,Casa,118.4,793400000,Feria inmobiliaria,Contado,Vendido,2024-04-30,776300000
+CT0344,2024-01-30,CL0286,Arrayanes,Bello,Apartamento VIS,45.1,175900000,Feria inmobiliaria,Subsidio y crédito,Cotizado,,
+CT0345,2024-01-31,CL0289,Yarumos,Medellín,Apartamento No VIS,58.7,466500000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0346,2024-02-01,CL0292,Yarumos,Medellín,Apartamento No VIS,107.0,840100000,Feria inmobiliaria,Crédito hipotecario,Cotizado,,
+CT0347,2024-02-01,CL0305,Guayacanes,Itagüí,Apartamento No VIS,75.2,468700000,Página web,Contado,Cotizado,,
+CT0348,2024-02-02,CL0303,Arrayanes,Bello,Apartamento VIS,52.0,202800000,Referido,Subsidio y crédito,Vendido,2024-04-17,194500000
+CT0349,2024-02-03,CL0293,Arrayanes,Bello,Apartamento VIS,60.5,236000000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0350,2024-02-05,CL0304,Robles,Rionegro,Apartamento No VIS,65.2,416900000,Sala de ventas,Contado,Cotizado,,
+CT0351,2024-02-08,CL0290,Robles,Rionegro,Casa,101.6,634300000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0352,2024-02-10,CL0297,Ceibas,Sabaneta,Apartamento VIS,47.2,184100000,Sala de ventas,Subsidio y crédito,Vendido,2024-05-26,181300000
+CT0353,2024-02-10,CL0299,Ceibas,Sabaneta,Apartamento No VIS,110.4,741200000,Feria inmobiliaria,Contado,Vendido,2024-03-16,713100000
+CT0354,2024-02-12,CL0295,Samanes,Envigado,Apartamento No VIS,87.0,752700000,Referido,Crédito hipotecario,Cotizado,,
+CT0355,2024-02-12,CL0302,Robles,Rionegro,Apartamento No VIS,95.8,659100000,Página web,Crédito hipotecario,Cotizado,,
+CT0356,2024-02-12,CL0306,Ceibas,Sabaneta,Apartamento No VIS,62.8,427200000,Sala de ventas,Crédito hipotecario,Vendido,2024-04-20,425500000
+CT0357,2024-02-16,CL0300,Guayacanes,Itagüí,Apartamento No VIS,77.4,464100000,Página web,Crédito hipotecario,Vendido,2024-04-12,457800000
+CT0358,2024-02-18,CL0247,Guayacanes,Itagüí,Apartamento No VIS,67.5,390300000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0359,2024-02-18,CL0307,Guayacanes,Itagüí,Apartamento VIS,56.8,221500000,Referido,Subsidio y crédito,Cotizado,,
+CT0360,2024-02-19,CL0280,Arrayanes,Bello,Apartamento VIS,50.9,198500000,Página web,Subsidio y crédito,Cotizado,,
+CT0361,2024-02-19,CL0273,Arrayanes,Bello,Apartamento VIS,55.5,216400000,Página web,Subsidio y crédito,Cotizado,,
+CT0362,2024-02-21,CL0298,Ceibas,Sabaneta,Apartamento No VIS,99.8,744600000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0363,2024-02-22,CL0281,Guayacanes,Itagüí,Apartamento VIS,53.0,206700000,Feria inmobiliaria,Crédito hipotecario,Cotizado,,
+CT0364,2024-02-26,CL0294,Yarumos,Medellín,Apartamento No VIS,99.9,795400000,Página web,Crédito hipotecario,Cotizado,,
+CT0365,2024-02-26,CL0296,Arrayanes,Bello,Apartamento VIS,48.4,188800000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0366,2024-02-27,CL0301,Guayacanes,Itagüí,Apartamento No VIS,58.7,379300000,Referido,Crédito hipotecario,Cotizado,,
+CT0367,2024-02-28,CL0291,Samanes,Envigado,Apartamento No VIS,106.9,959800000,Sala de ventas,Crédito hipotecario,Vendido,2024-06-06,955400000
+CT0368,2024-03-01,CL0311,Robles,Rionegro,Casa,95.4,628300000,Sala de ventas,Contado,Vendido,2024-04-27,616200000
+CT0369,2024-03-02,CL0315,Samanes,Envigado,Casa,100.0,852800000,Sala de ventas,Contado,Cotizado,,
+CT0370,2024-03-03,CL0327,Guayacanes,Itagüí,Apartamento VIS,52.7,205500000,Sala de ventas,Subsidio y crédito,Vendido,2024-06-12,202500000
+CT0371,2024-03-06,CL0309,Ceibas,Sabaneta,Apartamento VIS,45.9,179000000,Sala de ventas,Subsidio y crédito,Desistido,2024-06-09,
+CT0372,2024-03-07,CL0323,Arrayanes,Bello,Apartamento VIS,48.2,188000000,Feria inmobiliaria,Crédito hipotecario,Cotizado,,
+CT0373,2024-03-09,CL0299,Samanes,Envigado,Casa,138.8,1233800000,Referido,Crédito hipotecario,Cotizado,,
+CT0374,2024-03-09,CL0320,Guayacanes,Itagüí,Apartamento No VIS,75.4,452500000,Referido,Crédito hipotecario,Vendido,2024-04-27,451100000
+CT0375,2024-03-09,CL0324,Ceibas,Sabaneta,Apartamento No VIS,61.7,445100000,Referido,Contado,Vendido,2024-05-14,428500000
+CT0376,2024-03-11,CL0299,Ceibas,Sabaneta,Apartamento No VIS,113.2,849100000,Página web,Crédito hipotecario,Separado,,
+CT0377,2024-03-16,CL0312,Yarumos,Medellín,Apartamento No VIS,92.9,731500000,Sala de ventas,Crédito hipotecario,Vendido,2024-04-15,708700000
+CT0378,2024-03-16,CL0282,Samanes,Envigado,Casa,163.7,1289800000,Sala de ventas,Contado,Cotizado,,
+CT0379,2024-03-18,CL0308,Robles,Rionegro,Apartamento No VIS,107.7,706600000,Página web,Crédito hipotecario,Cotizado,,
+CT0380,2024-03-18,CL0319,Arrayanes,Bello,Apartamento VIS,53.0,206700000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0381,2024-03-19,CL0318,Robles,Rionegro,Casa,157.5,1076500000,Sala de ventas,Crédito hipotecario,Separado,,
+CT0382,2024-03-19,CL0322,Samanes,Envigado,Casa,143.9,1206000000,Sala de ventas,Leasing habitacional,Vendido,2024-05-22,1146900000
+CT0383,2024-03-20,CL0316,Ceibas,Sabaneta,Apartamento No VIS,94.4,711200000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0384,2024-03-21,CL0309,Arrayanes,Bello,Apartamento VIS,52.5,204800000,Referido,Subsidio y crédito,Cotizado,,
+CT0385,2024-03-23,CL0298,Ceibas,Sabaneta,Apartamento VIS,49.3,192300000,Página web,Subsidio y crédito,Cotizado,,
+CT0386,2024-03-24,CL0321,Ceibas,Sabaneta,Apartamento No VIS,79.7,591500000,Sala de ventas,Leasing habitacional,Cotizado,,
+CT0387,2024-03-26,CL0254,Ceibas,Sabaneta,Apartamento No VIS,69.7,526600000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0388,2024-03-26,CL0313,Yarumos,Medellín,Apartamento No VIS,81.6,577100000,Sala de ventas,Crédito hipotecario,Desistido,2024-06-19,
+CT0389,2024-03-26,CL0314,Yarumos,medellin,Apartamento No VIS,67.7,529000000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0390,2024-03-27,CL0317,Robles,Rionegro,Casa,127.2,828800000,Sala de ventas,Contado,Vendido,2024-03-07,792700000
+CT0391,2024-03-28,CL0325,Arrayanes,Bello,Apartamento VIS,59.1,230500000,Página web,Subsidio y crédito,Cotizado,,
+CT0392,2024-03-29,CL0296,Guayacanes,Itagüí,Apartamento No VIS,89.8,555500000,Referido,Leasing habitacional,Vendido,2024-04-29,531200000
+CT0393,2024-03-29,CL0326,Arrayanes,Bello,Apartamento VIS,49.9,194600000,Página web,Subsidio y crédito,Cotizado,,
+CT0394,2024-03-30,CL0250,Arrayanes,Bello,Apartamento VIS,44.4,173200000,Sala de ventas,Subsidio y crédito,Vendido,2024-05-02,170900000
+CT0395,2024-03-30,CL0310,Guayacanes,Itagüí,Apartamento VIS,44.1,172000000,Página web,Subsidio y crédito,Desistido,2024-05-23,
+CT0396,2024-04-01,CL0339,Guayacanes,Itagüí,Apartamento No VIS,74.7,482300000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0397,2024-04-01,CL0343,Samanes,Envigado,Casa,130.8,1128800000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0398,2024-04-01,CL0348,Guayacanes,Itagüí,Apartamento No VIS,104.4,636000000,Referido,Leasing habitacional,Cotizado,,
+CT0399,2024-04-02,CL0332,Arrayanes,Bello,Apartamento VIS,61.3,239100000,Referido,Crédito hipotecario,Vendido,2024-07-27,235200000
+CT0400,2024-04-03,CL0345,Yarumos,Medellín,Apartamento No VIS,79.3,643500000,Página web,Crédito hipotecario,Cotizado,,
+CT0401,2024-04-04,CL0328,Ceibas,Sabaneta,Apartamento VIS,48.5,189200000,Referido,Subsidio y crédito,Vendido,2024-02-26,188800000
+CT0402,2024-04-04,CL0341,Yarumos,Medellín,Apartamento No VIS,63.8,491300000,Página web,Crédito hipotecario,Cotizado,,
+CT0403,2024-04-05,CL0322,Robles,Rionegro,Apartamento No VIS,94.0,657300000,Página web,Crédito hipotecario,Separado,,
+CT0403,2024-04-05,CL0322,Robles,Rionegro,Apartamento No VIS,94.0,657300000,Página web,Crédito hipotecario,Separado,,
+CT0404,2024-04-05,CL0330,Samanes,Envigado,Casa,122.9,985100000,Sala de ventas,Crédito hipotecario,Desistido,2024-05-31,
+CT0405,2024-04-05,CL0349,Robles,Rionegro,Apartamento No VIS,116.9,724600000,Página web,Crédito hipotecario,Separado,,
+CT0406,2024-04-07,CL0334,Robles,Rionegro,Casa,123.7,781600000,Página web,Leasing habitacional,Cotizado,,
+CT0407,2024-04-07,CL0306,Samanes,Envigado,Apartamento No VIS,99.8,876600000,Feria inmobiliaria,Crédito hipotecario,Vendido,2024-07-21,864400000
+CT0408,2024-04-08,CL0321,Yarumos,Medellín,Apartamento No VIS,89.9,658000000,Feria inmobiliaria,Leasing habitacional,Separado,,
+CT0409,2024-04-13,CL0336,Arrayanes,Bello,Apartamento VIS,56.8,221500000,Sala de ventas,Subsidio y crédito,Vendido,2024-05-13,211200000
+CT0410,2024-04-13,CL0346,Samanes,Envigado,Apartamento No VIS,95.6,771300000,Sala de ventas,Crédito hipotecario,Separado,,
+CT0411,2024-04-16,CL0331,Yarumos,Medellín,Apartamento No VIS,102.5,811300000,Sala de ventas,Crédito hipotecario,Vendido,2024-05-23,804200000
+CT0412,2024-04-18,CL0329,Ceibas,Sabaneta,Apartamento VIS,53.5,208600000,Referido,Subsidio y crédito,Vendido,2024-05-22,207800000
+CT0413,2024-04-18,CL0338,Guayacanes,Itagüí,Apartamento VIS,52.0,202800000,Feria inmobiliaria,Crédito hipotecario,Cotizado,,
+CT0414,2024-04-18,CL0342,Arrayanes,Bello,Apartamento VIS,50.7,197700000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0415,2024-04-19,CL0335,Arrayanes,Bello,Apartamento VIS,52.0,202800000,Sala de ventas,Subsidio y crédito,Desistido,2024-08-16,
+CT0416,2024-04-20,CL0330,Samanes,Envigado,Casa,126.2,1098900000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0417,2024-04-20,CL0347,Samanes,Envigado,Apartamento No VIS,100.9,804900000,Sala de ventas,Crédito hipotecario,Separado,,
+CT0418,2024-04-22,CL0336,Ceibas,Sabaneta,Apartamento No VIS,68.5,505800000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0419,2024-04-23,CL0340,Ceibas,Sabaneta,Apartamento No VIS,98.0,661800000,Página web,Crédito hipotecario,Cotizado,,
+CT0420,2024-04-23,CL0344,Samanes,Envigado,Apartamento No VIS,72.4,569600000,Referido,Crédito hipotecario,Vendido,2024-06-24,564800000
+CT0421,2024-04-24,CL0337,Samanes,Envigado,Apartamento No VIS,79.4,648700000,Página web,Contado,Cotizado,,
+CT0422,2024-04-25,CL0333,Yarumos,Medellín,Apartamento No VIS,63.1,457400000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0423,2024-04-28,CL0298,Robles,Rionegro,Apartamento No VIS,85.8,561400000,Página web,Crédito hipotecario,Vendido,2024-08-04,548800000
+CT0424,2024-05-02,CL0351,Arrayanes,Bello,Apartamento VIS,49.4,192700000,Sala de ventas,Contado,Cotizado,,
+CT0425,2024-05-02,CL0364,Arrayanes,Bello,Apartamento VIS,47.8,186400000,Sala de ventas,Subsidio y crédito,Desistido,2024-06-18,
+CT0426,2024-05-02,CL0368,Robles,Rionegro,Apartamento No VIS,105.0,667700000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0427,2024-05-05,CL0371,Ceibas,Sabaneta,Apartamento VIS,61.4,239500000,Sala de ventas,Crédito hipotecario,Separado,,
+CT0428,2024-05-08,CL0357,Arrayanes,Bello,Apartamento VIS,50.0,195000000,Referido,Subsidio y crédito,Vendido,2024-07-27,191200000
+CT0429,2024-05-08,CL0367,Samanes,Envigado,Casa,122.2,968700000,Página web,Crédito hipotecario,Cotizado,,
+CT0430,2024-05-09,CL0364,Ceibas,Sabaneta,Apartamento No VIS,59.1,432500000,Referido,Crédito hipotecario,Cotizado,,
+CT0431,2024-05-09,CL0372,Arrayanes,Bello,Apartamento VIS,54.5,212500000,Página web,Crédito hipotecario,Cotizado,,
+CT0432,2024-05-09,CL0371,Guayacanes,Itagüí,Apartamento VIS,60.1,234400000,Referido,Crédito hipotecario,Vendido,2024-06-15,229700000
+CT0433,2024-05-10,CL0359,Ceibas,Sabaneta,Apartamento VIS,61.9,241400000,Sala de ventas,Crédito hipotecario,Desistido,2024-08-14,
+CT0434,2024-05-11,CL0350,Guayacanes,Itagüí,Apartamento No VIS,59.9,382300000,Sala de ventas,Contado,Cotizado,,
+CT0435,2024-05-11,CL0370,Robles,Rionegro,Apartamento No VIS,68.6,456600000,Sala de ventas,Leasing habitacional,Cotizado,,
+CT0436,2024-05-14,CL0343,Yarumos,Medellín,Apartamento No VIS,93.7,754200000,Sala de ventas,Contado,Vendido,2024-07-20,720900000
+CT0437,2024-05-14,CL0365,Guayacanes,Itagüí,Apartamento No VIS,79.7,486800000,Feria inmobiliaria,Crédito hipotecario,Cotizado,,
+CT0438,2024-05-15,CL0369,Robles,Rionegro,Casa,157.5,1076000000,Página web,Crédito hipotecario,Vendido,2024-07-01,1063600000
+CT0439,2024-05-16,CL0361,Arrayanes,Bello,Apartamento VIS,61.0,237900000,Página web,Crédito hipotecario,Cotizado,,
+CT0440,2024-05-16,CL0366,Arrayanes,Bello,Apartamento VIS,47.4,184900000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0441,2024-05-17,CL0358,Guayacanes,Itagüí,Apartamento No VIS,60.3,363000000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0442,2024-05-18,CL0354,Robles,Rionegro,Apartamento No VIS,110.0,726000000,Página web,Crédito hipotecario,Cotizado,,
+CT0443,2024-05-18,CL0356,Arrayanes,Bello,Apartamento VIS,51.7,201600000,Referido,Subsidio y crédito,Cotizado,,
+CT0444,2024-05-19,CL0350,Arrayanes,Bello,Apartamento VIS,54.8,213700000,Referido,Subsidio y crédito,Vendido,2024-08-27,208000000
+CT0445,2024-05-19,CL0363,Arrayanes,Bello,Apartamento VIS,45.9,179000000,Sala de ventas,Subsidio y crédito,Vendido,2024-06-30,177300000
+CT0446,2024-05-23,CL0362,Yarumos,Medellín,Apartamento No VIS,96.9,757700000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0447,2024-05-24,CL0355,Yarumos,Medellín,Apartamento No VIS,60.4,435100000,Página web,Crédito hipotecario,Cotizado,,
+CT0448,2024-05-26,CL0353,Robles,Rionegro,Apartamento No VIS,108.7,757900000,Referido,Crédito hipotecario,Vendido,2024-07-15,737400000
+CT0449,2024-05-26,CL0346,Yarumos,Medellín,Apartamento No VIS,88.8,703300000,Sala de ventas,Crédito hipotecario,Vendido,2024-08-10,697600000
+CT0450,2024-05-27,CL0352,Robles,Rionegro,Apartamento No VIS,60.1,382700000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0451,2024-05-30,CL0360,Ceibas,Sabaneta,Apartamento VIS,58.0,226200000,Sala de ventas,Subsidio y crédito,Vendido,2024-09-17,224600000
+CT0452,2024-06-01,CL0387,Ceibas,Sabaneta,Apartamento VIS,60.4,235600000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0453,2024-06-03,CL0376,Robles,Rionegro,Apartamento No VIS,61.6,418400000,Página web,Crédito hipotecario,Separado,,
+CT0454,2024-06-05,CL0392,Robles,Rionegro,Apartamento No VIS,102.6,639000000,Página web,Crédito hipotecario,Cotizado,,
+CT0455,2024-06-07,CL0347,Robles,Rionegro,Apartamento No VIS,117.1,809500000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0456,2024-06-09,CL0323,Yarumos,Medellín,Apartamento No VIS,109.3,819000000,Sala de ventas,Crédito hipotecario,Vendido,2024-08-03,808300000
+CT0457,2024-06-10,CL0380,Robles,Rionegro,Casa,98.4,628000000,Feria inmobiliaria,Contado,Cotizado,,
+CT0458,2024-06-10,CL0383,Robles,Rionegro,Casa,125.8,824300000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0459,2024-06-11,CL0373,Robles,Rionegro,Casa,117.9,741500000,Sala de ventas,Leasing habitacional,Vendido,2024-09-13,721800000
+CT0460,2024-06-12,CL0375,Arrayanes,Bello,Apartamento VIS,49.5,193000000,Sala de ventas,Crédito hipotecario,Vendido,2024-07-28,188100000
+CT0461,2024-06-15,CL0381,Yarumos,Medellín,Apartamento No VIS,64.4,507700000,Página web,Leasing habitacional,Desistido,2024-08-30,
+CT0462,2024-06-15,CL0382,Ceibas,Sabaneta,Apartamento No VIS,62.7,448900000,Página web,Crédito hipotecario,Vendido,2024-07-28,439100000
+CT0463,2024-06-16,CL0389,Samanes,Envigado,Apartamento No VIS,75.3,639300000,Sala de ventas,Crédito hipotecario,Vendido,2024-07-16,610300000
+CT0464,2024-06-17,CL0385,Robles,Rionegro,Casa,164.6,1153300000,Página web,Crédito hipotecario,Vendido,2024-08-21,1152900000
+CT0465,2024-06-17,CL0388,Yarumos,Medellín,Apartamento No VIS,81.1,603500000,Sala de ventas,Leasing habitacional,Cotizado,,
+CT0466,2024-06-18,CL0390,Samanes,Envigado,Casa,102.7,874700000,Página web,Crédito hipotecario,Cotizado,,
+CT0467,2024-06-19,CL0384,Robles,Rionegro,Casa,157.2,976200000,Sala de ventas,Contado,Vendido,2024-09-17,943300000
+CT0468,2024-06-20,CL0391,Guayacanes,Itagüí,Apartamento No VIS,79.2,509800000,Página web,Crédito hipotecario,Cotizado,,
+CT0469,2024-06-20,CL0337,Robles,Rionegro,Casa,96.1,634200000,Feria inmobiliaria,Leasing habitacional,Cotizado,,
+CT0470,2024-06-21,CL0331,Guayacanes,Itagüí,Apartamento VIS,56.4,220000000,Feria inmobiliaria,Crédito hipotecario,Cotizado,,
+CT0471,2024-06-23,CL0377,Ceibas,Sabaneta,Apartamento No VIS,114.4,857500000,Sala de ventas,Crédito hipotecario,Vendido,2024-08-31,845100000
+CT0472,2024-06-23,CL0378,Samanes,Envigado,Casa,148.3,1180000000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0473,2024-06-24,CL0374,Ceibas,Sabaneta,Apartamento No VIS,63.2,454400000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0474,2024-06-27,CL0386,Arrayanes,Bello,Apartamento VIS,59.7,232800000,Feria inmobiliaria,Subsidio y crédito,Vendido,2024-09-18,227000000
+CT0475,2024-06-28,CL0363,Arrayanes,Bello,Apartamento VIS,52.6,205100000,Página web,Subsidio y crédito,Cotizado,,
+CT0476,2024-06-29,CL0379,Ceibas,Sabaneta,Apartamento VIS,50.1,195400000,Referido,Subsidio y crédito,Vendido,2024-08-29,193600000
+CT0477,2024-06-29,CL0359,Ceibas,Sabaneta,Apartamento No VIS,97.2,715500000,Página web,Crédito hipotecario,Cotizado,,
+CT0478,2024-07-03,CL0401,Samanes,Envigado,Casa,103.5,883300000,Página web,Contado,Cotizado,,
+CT0479,2024-07-04,CL0383,Ceibas,Sabaneta,Apartamento No VIS,90.7,678700000,Sala de ventas,Contado,Vendido,2024-10-13,669000000
+CT0480,2024-07-06,CL0400,Guayacanes,Itagüí,Apartamento VIS,49.6,193400000,Página web,Contado,Cotizado,,
+CT0481,2024-07-06,CL0402,Ceibas,Sabaneta,Apartamento VIS,60.8,237100000,Página web,Subsidio y crédito,Cotizado,,
+CT0482,2024-07-09,CL0396,Robles,Rionegro,Casa,127.8,863200000,Página web,Crédito hipotecario,Cotizado,,
+CT0483,2024-07-09,CL0350,Ceibas,Sabaneta,Apartamento No VIS,110.5,802400000,Página web,Leasing habitacional,Cotizado,,
+CT0484,2024-07-09,CL0409,Samanes,Envigado,Apartamento No VIS,108.1,876800000,Referido,Leasing habitacional,Cotizado,,
+CT0485,2024-07-13,CL0387,Arrayanes,Bello,Apartamento VIS,56.5,220400000,Página web,Subsidio y crédito,Cotizado,,
+CT0486,2024-07-14,CL0395,Arrayanes,Bello,Apartamento VIS,53.5,208600000,Feria inmobiliaria,Crédito hipotecario,Vendido,2024-10-20,203700000
+CT0487,2024-07-14,CL0406,Guayacanes,Itagüí,Apartamento No VIS,68.6,407300000,Sala de ventas,Contado,Vendido,2024-08-30,403400000
+CT0488,2024-07-15,CL0403,Robles,Rionegro,Casa,140.5,978800000,Feria inmobiliaria,Contado,Cotizado,,
+CT0489,2024-07-16,CL0394,Robles,Rionegro,Casa,157.9,1013500000,Página web,Crédito hipotecario,Cotizado,,
+CT0490,2024-07-16,CL0404,Robles,Rionegro,Apartamento No VIS,101.9,654600000,Feria inmobiliaria,Crédito hipotecario,Cotizado,,
+CT0491,2024-07-16,CL0407,Yarumos,Medellín,Apartamento No VIS,94.1,703600000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0492,2024-07-16,CL0410,Samanes,Envigado,Casa,144.6,1159600000,Feria inmobiliaria,Leasing habitacional,Separado,,
+CT0493,2024-07-17,CL0399,Yarumos,Medellín,Apartamento No VIS,98.0,740200000,Sala de ventas,Leasing habitacional,Vendido,2024-11-14,711500000
+CT0494,2024-07-18,CL0411,Yarumos,Medellín,Apartamento No VIS,62.3,485300000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0495,2024-07-20,CL0391,Guayacanes,Itagüí,Apartamento No VIS,88.6,564600000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0496,2024-07-21,CL0393,Samanes,Envigado,Apartamento No VIS,110.9,968900000,Sala de ventas,Leasing habitacional,Cotizado,,
+CT0497,2024-07-22,CL0385,Guayacanes,Itagüí,Apartamento No VIS,115.6,695500000,Sala de ventas,Leasing habitacional,Cotizado,,
+CT0498,2024-07-25,CL0358,Samanes,Envigado,Casa,160.5,1270500000,Página web,Leasing habitacional,Cotizado,,
+CT0499,2024-07-25,CL0405,Samanes,Envigado,Apartamento No VIS,87.2,698000000,Feria inmobiliaria,Crédito hipotecario,Cotizado,,
+CT0500,2024-07-26,CL0397,Arrayanes,Bello,Apartamento VIS,50.8,198100000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0501,2024-07-30,CL0408,Samanes,Envigado,Apartamento No VIS,94.0,784600000,Sala de ventas,Contado,Vendido,2024-11-20,749000000
+CT0502,2024-07-31,CL0367,Guayacanes,Itagüí,Apartamento VIS,56.4,220000000,Página web,Subsidio y crédito,Cotizado,,
+CT0503,2024-07-31,CL0398,Ceibas,Sabaneta,Apartamento VIS,58.5,228200000,Sala de ventas,Contado,Cotizado,,
+CT0504,2024-08-01,CL0433,Robles,Rionegro,Apartamento No VIS,79.8,516400000,Feria inmobiliaria,Crédito hipotecario,Vendido,2024-11-27,495200000
+CT0505,2024-08-02,CL0420,Samanes,Envigado,Apartamento No VIS,111.2,979400000,Página web,Crédito hipotecario,Vendido,2024-10-04,979200000
+CT0506,2024-08-02,CL0422,Robles,Rionegro,Casa,100.8,658000000,Referido,Crédito hipotecario,Vendido,2024-11-25,633700000
+CT0507,2024-08-03,CL0425,Robles,Rionegro,Apartamento No VIS,65.3,408600000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0508,2024-08-05,CL0432,Ceibas,Sabaneta,Apartamento No VIS,60.1,452000000,Página web,Crédito hipotecario,Cotizado,,
+CT0509,2024-08-06,CL0427,Robles,Rionegro,Apartamento No VIS,94.2,665000000,Sala de ventas,Crédito hipotecario,Vendido,2024-09-27,657700000
+CT0510,2024-08-08,CL0413,Ceibas,Sabaneta,Apartamento VIS,59.5,232000000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0511,2024-08-08,CL0423,Guayacanes,Itagüí,Apartamento No VIS,77.2,489300000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0512,2024-08-11,CL0429,Yarumos,Medellín,Apartamento No VIS,60.7,481200000,Página web,Contado,Cotizado,,
+CT0513,2024-08-12,CL0418,Guayacanes,Itagüí,Apartamento No VIS,80.6,517200000,Sala de ventas,Crédito hipotecario,Vendido,2024-10-08,506200000
+CT0514,2024-08-15,CL0428,Robles,Rionegro,Apartamento No VIS,68.2,437600000,Página web,Leasing habitacional,Vendido,2024-12-01,433200000
+CT0515,2024-08-15,CL0405,Yarumos,Medellín,Apartamento No VIS,65.1,494800000,Feria inmobiliaria,Contado,Vendido,2024-12-05,484000000
+CT0516,2024-08-17,CL0414,Robles,Rionegro,Casa,99.9,701000000,Sala de ventas,Leasing habitacional,Cotizado,,
+CT0517,2024-08-17,CL0430,Ceibas,Sabaneta,Apartamento VIS,51.3,200100000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0518,2024-08-18,CL0424,Ceibas,Sabaneta,Apartamento No VIS,100.6,746000000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0519,2024-08-19,CL0412,Samanes,Envigado,Apartamento No VIS,98.4,843600000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0520,2024-08-19,CL0431,Ceibas,Sabaneta,Apartamento VIS,56.3,219600000,Referido,Subsidio y crédito,Vendido,2024-11-02,216900000
+CT0521,2024-08-20,CL0421,Guayacanes,Itagüí,Apartamento No VIS,96.0,608000000,Sala de ventas,Contado,Cotizado,,
+CT0522,2024-08-21,CL0434,Ceibas,Sabaneta,Apartamento VIS,51.9,202400000,Página web,Subsidio y crédito,Cotizado,,
+CT0523,2024-08-22,CL0415,Samanes,Envigado,Apartamento No VIS,93.9,759000000,Sala de ventas,Contado,Vendido,2024-11-22,738800000
+CT0524,2024-08-23,CL0419,Ceibas,Sabaneta,Apartamento No VIS,59.4,418500000,Página web,Leasing habitacional,Cotizado,,
+CT0525,2024-08-27,CL0425,Arrayanes,Bello,Apartamento VIS,44.4,173200000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0526,2024-08-28,CL0426,Ceibas,Sabaneta,Apartamento VIS,61.1,238300000,Feria inmobiliaria,Subsidio y crédito,Cotizado,,
+CT0527,2024-08-30,CL0435,Robles,Rionegro,Apartamento No VIS,76.3,477600000,Sala de ventas,Contado,Cotizado,,
+CT0528,2024-08-31,CL0416,Yarumos,Medellín,Apartamento No VIS,99.8,713300000,Página web,Crédito hipotecario,Cotizado,,
+CT0529,2024-08-31,CL0417,Robles,Rionegro,Casa,135.6,839100000,Feria inmobiliaria,Contado,Cotizado,,
+CT0530,2024-09-01,CL0436,Arrayanes,Bello,Apartamento VIS,49.8,194200000,Feria inmobiliaria,Subsidio y crédito,Cotizado,,
+CT0531,2024-09-01,CL0449,Arrayanes,Bello,Apartamento VIS,54.3,211800000,Referido,Subsidio y crédito,Vendido,2024-11-28,202000000
+CT0532,2024-09-03,CL0443,Yarumos,Medellín,Apartamento No VIS,66.2,484600000,Página web,Crédito hipotecario,Vendido,2024-10-19,465300000
+CT0533,2024-09-03,CL0456,Guayacanes,Itagüí,Apartamento No VIS,68.1,434900000,Página web,Crédito hipotecario,Vendido,2024-10-05,427200000
+CT0534,2024-09-04,CL0439,Arrayanes,Bello,Apartamento VIS,53.5,208600000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0535,2024-09-06,CL0424,Arrayanes,Bello,Apartamento VIS,58.2,227000000,Página web,Subsidio y crédito,Vendido,2024-10-08,220100000
+CT0536,2024-09-06,CL0451,Yarumos,Medellín,Apartamento No VIS,94.8,742800000,Referido,Crédito hipotecario,Desistido,2024-11-20,
+CT0537,2024-09-08,CL0441,Arrayanes,Bello,Apartamento VIS,53.1,207100000,Página web,Subsidio y crédito,Desistido,2024-09-28,
+CT0538,2024-09-12,CL0437,Yarumos,Medellín,Apartamento No VIS,74.7,557900000,Página web,Crédito hipotecario,Cotizado,,
+CT0539,2024-09-14,CL0440,Guayacanes,Itagüí,Apartamento No VIS,106.1,641100000,Página web,Leasing habitacional,Cotizado,,
+CT0540,2024-09-16,CL0442,Ceibas,Sabaneta,Apartamento VIS,46.5,181400000,Sala de ventas,Subsidio y crédito,Vendido,2024-10-21,178700000
+CT0541,2024-09-17,CL0446,Guayacanes,Itagüí,Apartamento VIS,60.5,236000000,Página web,Subsidio y crédito,Cotizado,,
+CT0542,2024-09-17,CL0427,Samanes,Envigado,Apartamento No VIS,104.1,840000000,Feria inmobiliaria,Crédito hipotecario,Desistido,2024-12-17,
+CT0543,2024-09-19,CL0438,Guayacanes,Itagüí,Apartamento No VIS,71.3,431200000,Página web,Crédito hipotecario,Cotizado,,
+CT0544,2024-09-20,CL0448,Robles,Rionegro,Casa,120.9,822000000,Referido,Contado,Separado,,
+CT0545,2024-09-20,CL0455,Robles,Rionegro,Casa,106.2,672400000,Sala de ventas,Contado,Vendido,2024-12-16,663800000
+CT0546,2024-09-21,CL0447,Guayacanes,Itagüí,Apartamento VIS,50.8,198100000,Página web,Subsidio y crédito,Cotizado,,
+CT0547,2024-09-21,CL0446,Samanes,Envigado,Casa,134.3,1202900000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0548,2024-09-22,CL0395,Robles,Rionegro,Casa,163.4,1030600000,Página web,Leasing habitacional,Separado,,
+CT0549,2024-09-22,CL0444,Samanes,Envigado,Apartamento No VIS,89.6,740600000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0550,2024-09-22,CL0450,Arrayanes,Bello,Apartamento VIS,49.6,193400000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0551,2024-09-22,CL0453,Guayacanes,Itagüí,Apartamento VIS,59.0,230100000,Referido,Subsidio y crédito,Vendido,2025-01-15,221600000
+CT0552,2024-09-26,CL0445,Robles,Rionegro,Apartamento No VIS,100.6,653000000,Sala de ventas,Contado,Cotizado,,
+CT0553,2024-09-26,CL0452,Guayacanes,Itagüí,Apartamento VIS,56.6,220700000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0554,2024-09-30,CL0454,Arrayanes,Bello,Apartamento VIS,45.0,175500000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0555,2024-10-02,CL0457,Arrayanes,Bello,Apartamento VIS,57.7,225000000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0556,2024-10-04,CL0460,Arrayanes,Bello,Apartamento VIS,53.6,209000000,Referido,Crédito hipotecario,Desistido,2024-12-01,
+CT0557,2024-10-04,CL0473,Samanes,Envigado,Casa,115.0,1028900000,Feria inmobiliaria,Leasing habitacional,Cotizado,,
+CT0558,2024-10-07,CL0469,Robles,Rionegro,Casa,112.7,762200000,Página web,Crédito hipotecario,Desistido,2024-11-29,
+CT0559,2024-10-07,CL0459,Samanes,Envigado,Casa,150.1,1191400000,Página web,Crédito hipotecario,Cotizado,,
+CT0560,2024-10-08,CL0465,Robles,Rionegro,Apartamento No VIS,77.9,499800000,Página web,Crédito hipotecario,Cotizado,,
+CT0561,2024-10-08,CL0471,Yarumos,Medellín,Apartamento No VIS,117.9,870800000,Página web,Crédito hipotecario,Cotizado,,
+CT0562,2024-10-09,CL0427,Ceibas,Sabaneta,Apartamento No VIS,108.1,805900000,Sala de ventas,Crédito hipotecario,Vendido,2025-01-08,791500000
+CT0563,2024-10-09,CL0470,Yarumos,Medellín,Apartamento No VIS,58.1,439100000,Sala de ventas,Crédito hipotecario,Vendido,2024-12-17,431800000
+CT0564,2024-10-10,CL0464,Ceibas,Sabaneta,Apartamento VIS,48.8,190300000,Sala de ventas,Subsidio y crédito,Separado,,
+CT0565,2024-10-11,CL0458,Guayacanes,Itagüí,Apartamento No VIS,106.7,626900000,Página web,Contado,Cotizado,,
+CT0566,2024-10-11,CL0461,Samanes,Envigado,Casa,155.7,1342000000,Feria inmobiliaria,Crédito hipotecario,Cotizado,,
+CT0567,2024-10-11,CL0463,Arrayanes,Bello,Apartamento VIS,47.2,184100000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0568,2024-10-13,CL0463,Robles,Rionegro,Casa,104.9,678600000,Página web,Leasing habitacional,Vendido,2024-11-28,667900000
+CT0569,2024-10-13,CL0467,Arrayanes,Bello,Apartamento VIS,55.9,218000000,Página web,Subsidio y crédito,Cotizado,,
+CT0570,2024-10-16,CL0472,Samanes,Envigado,Apartamento No VIS,97.7,810400000,Página web,Crédito hipotecario,Cotizado,,
+CT0571,2024-10-18,CL0462,Ceibas,Sabaneta,Apartamento No VIS,67.2,492800000,Feria inmobiliaria,Leasing habitacional,Desistido,2025-01-17,
+CT0572,2024-10-19,CL0459,Arrayanes,Bello,Apartamento VIS,49.7,193800000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0573,2024-10-19,CL0474,Yarumos,Medellín,Apartamento No VIS,105.2,806400000,Referido,Contado,Desistido,2025-02-10,
+CT0574,2024-10-25,CL0410,Yarumos,Medellín,Apartamento No VIS,112.7,886600000,Página web,Leasing habitacional,Separado,,
+CT0575,2024-10-25,CL0468,Arrayanes,Bello,Apartamento VIS,46.5,181400000,Página web,Crédito hipotecario,Cotizado,,
+CT0576,2024-10-28,CL0466,Robles,Rionegro,Apartamento No VIS,90.9,621900000,Página web,Crédito hipotecario,Cotizado,,
+CT0577,2024-10-28,CL0426,Guayacanes,Itagüí,Apartamento VIS,49.2,191900000,Referido,Subsidio y crédito,Desistido,2024-12-08,
+CT0578,2024-11-01,CL0424,Ceibas,Sabaneta,Apartamento No VIS,90.9,681000000,Página web,Leasing habitacional,Cotizado,,
+CT0579,2024-11-05,CL0462,Arrayanes,Bello,Apartamento VIS,56.3,219600000,Página web,Subsidio y crédito,Cotizado,,
+CT0580,2024-11-05,CL0485,Ceibas,Sabaneta,Apartamento No VIS,109.6,750200000,Página web,Contado,Vendido,2025-01-19,749300000
+CT0581,2024-11-06,CL0486,Yarumos,Medellín,Apartamento No VIS,59.3,425200000,Referido,Leasing habitacional,Separado,,
+CT0582,2024-11-10,CL0476,Guayacanes,Itagüí,Apartamento VIS,50.6,197300000,Referido,Contado,Separado,,
+CT0583,2024-11-10,CL0487,Robles,Rionegro,Apartamento No VIS,89.2,573400000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0584,2024-11-13,CL0490,Robles,Rionegro,Apartamento No VIS,88.3,617000000,Referido,Contado,Vendido,2025-02-03,610100000
+CT0585,2024-11-14,CL0475,Ceibas,Sabaneta,Apartamento No VIS,112.8,794000000,Página web,Contado,Cotizado,,
+CT0586,2024-11-15,CL0488,Guayacanes,Itagüí,Apartamento VIS,45.4,177100000,Sala de ventas,Subsidio y crédito,Separado,,
+CT0587,2024-11-16,CL0482,Ceibas,Sabaneta,Apartamento No VIS,93.7,668400000,Referido,Contado,Vendido,2025-02-26,655000000
+CT0588,2024-11-18,CL0452,Samanes,Envigado,Apartamento No VIS,86.5,683300000,Sala de ventas,Leasing habitacional,Vendido,2025-02-15,681200000
+CT0589,2024-11-18,CL0484,Samanes,Envigado,Casa,110.7,982300000,Referido,Crédito hipotecario,Vendido,2025-02-27,937200000
+CT0590,2024-11-19,CL0477,Samanes,Envigado,Apartamento No VIS,67.6,602700000,Referido,Crédito hipotecario,Vendido,2025-01-18,587100000
+CT0591,2024-11-19,CL0480,Ceibas,Sabaneta,Apartamento VIS,51.0,198900000,Página web,Crédito hipotecario,Cotizado,,
+CT0592,2024-11-19,CL0489,Yarumos,Medellín,Apartamento No VIS,89.2,706700000,Página web,Contado,Vendido,2025-03-03,675500000
+CT0593,2024-11-20,CL0479,Samanes,Envigado,Casa,123.6,1099400000,Página web,Crédito hipotecario,Cotizado,,
+CT0594,2024-11-23,CL0483,Guayacanes,Itagüí,Apartamento No VIS,104.2,628800000,Feria inmobiliaria,Crédito hipotecario,Cotizado,,
+CT0595,2024-11-24,CL0478,Robles,Rionegro,Apartamento No VIS,83.8,547500000,Referido,Contado,Vendido,2025-03-05,535900000
+CT0596,2024-11-26,CL0422,Arrayanes,Bello,Apartamento VIS,55.6,216800000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0597,2024-11-26,CL0433,Ceibas,Sabaneta,Apartamento No VIS,75.9,541300000,Feria inmobiliaria,Crédito hipotecario,Cotizado,,
+CT0598,2024-11-27,CL0491,Samanes,Envigado,Casa,109.7,970300000,Feria inmobiliaria,Contado,Cotizado,,
+CT0599,2024-11-28,CL0481,Robles,Rionegro,Casa,147.8,1012200000,Feria inmobiliaria,Crédito hipotecario,Cotizado,,
+CT0600,2024-11-29,CL0480,Guayacanes,Itagüí,Apartamento VIS,58.5,228200000,Feria inmobiliaria,Subsidio y crédito,Cotizado,,
+CT0601,2024-12-02,CL0494,Ceibas,Sabaneta,Apartamento No VIS,111.2,814700000,Sala de ventas,Crédito hipotecario,Desistido,2025-01-22,
+CT0602,2024-12-02,CL0505,Arrayanes,Bello,Apartamento VIS,54.1,211000000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0603,2024-12-04,CL0498,Yarumos,Medellín,Apartamento No VIS,106.6,761300000,Página web,Crédito hipotecario,Cotizado,,
+CT0604,2024-12-05,CL0504,Yarumos,Medellín,Apartamento No VIS,92.2,746500000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0605,2024-12-08,CL0502,Yarumos,Medellín,Apartamento No VIS,101.7,795000000,Página web,Crédito hipotecario,Cotizado,,
+CT0606,2024-12-08,CL0507,Yarumos,Medellín,Apartamento No VIS,114.6,913500000,Página web,Crédito hipotecario,Separado,,
+CT0607,2024-12-11,CL0453,Ceibas,Sabaneta,Apartamento No VIS,112.6,828300000,Página web,Leasing habitacional,Cotizado,,
+CT0608,2024-12-11,CL0511,Robles,Rionegro,Casa,134.3,891100000,Referido,Leasing habitacional,Vendido,2025-02-28,883100000
+CT0609,2024-12-20,CL0493,Samanes,Envigado,Casa,106.2,885000000,Feria inmobiliaria,Crédito hipotecario,Desistido,2025-03-23,
+CT0610,2024-12-20,CL0499,Robles,Rionegro,Apartamento No VIS,62.1,400000000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0611,2024-12-21,CL0492,Yarumos,Medellín,Apartamento No VIS,107.2,838100000,Sala de ventas,Leasing habitacional,Cotizado,,
+CT0612,2024-12-21,CL0510,Samanes,Envigado,Casa,128.1,1029400000,Sala de ventas,Contado,Cotizado,,
+CT0613,2024-12-22,CL0495,Yarumos,Medellín,Apartamento No VIS,100.2,710700000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0614,2024-12-23,CL0497,Arrayanes,Bello,Apartamento VIS,57.6,224600000,Página web,Crédito hipotecario,Cotizado,,
+CT0615,2024-12-24,CL0500,Guayacanes,Itagüí,Apartamento VIS,52.9,206300000,Feria inmobiliaria,Subsidio y crédito,Vendido,2025-03-27,196600000
+CT0616,2024-12-24,CL0513,Arrayanes,Bello,Apartamento VIS,46.8,182500000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0617,2024-12-25,CL0496,Guayacanes,Itagüí,Apartamento No VIS,97.5,598500000,Página web,Crédito hipotecario,Cotizado,,
+CT0618,2024-12-26,CL0503,Guayacanes,Itagüí,Apartamento VIS,44.7,174300000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0619,2024-12-27,CL0501,Guayacanes,Itagüí,Apartamento No VIS,66.8,418400000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0620,2024-12-27,CL0491,Arrayanes,Bello,Apartamento VIS,59.0,230100000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0621,2024-12-28,CL0512,Samanes,Envigado,Apartamento No VIS,85.1,693900000,Sala de ventas,Crédito hipotecario,Separado,,
+CT0622,2024-12-29,CL0506,Robles,Rionegro,Casa,108.0,711300000,Sala de ventas,Crédito hipotecario,Separado,,
+CT0623,2024-12-30,CL0508,Samanes,Envigado,Casa,117.7,991000000,Feria inmobiliaria,Contado,Cotizado,,
+CT0624,2024-12-30,CL0509,Arrayanes,Bello,Apartamento VIS,45.4,177100000,Sala de ventas,Crédito hipotecario,Separado,,
+CT0625,2025-01-02,CL0528,Yarumos,Medellín,Apartamento No VIS,111.0,865300000,Sala de ventas,Leasing habitacional,Desistido,2025-02-20,
+CT0626,2025-01-03,CL0525,Yarumos,Medellín,Apartamento No VIS,89.8,718500000,Sala de ventas,Crédito hipotecario,Separado,,
+CT0627,2025-01-05,CL0521,Robles,Rionegro,Apartamento No VIS,59.5,415600000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0628,2025-01-07,CL0517,Guayacanes,Itagüí,Apartamento VIS,50.0,212600000,Página web,Subsidio y crédito,Separado,,
+CT0629,2025-01-07,CL0520,Guayacanes,Itagüí,Apartamento No VIS,115.4,811500000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0630,2025-01-09,CL0522,Arrayanes,Bello,Apartamento VIS,52.3,222300000,Página web,Crédito hipotecario,Cotizado,,
+CT0631,2025-01-09,CL0527,Samanes,Envigado,Casa,118.7,1007300000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0632,2025-01-11,CL0507,Samanes,Envigado,Apartamento No VIS,61.7,527000000,Sala de ventas,Leasing habitacional,Cotizado,,
+CT0633,2025-01-15,CL0519,Yarumos,Medellín,Apartamento No VIS,98.5,826700000,Página web,Contado,Vendido,2025-03-18,790800000
+CT0634,2025-01-15,CL0476,Samanes,Envigado,Casa,142.1,1247000000,Sala de ventas,Crédito hipotecario,Desistido,2025-03-28,
+CT0635,2025-01-16,CL0516,Robles,Rionegro,Casa,139.8,1064800000,Referido,Contado,Vendido,2025-04-07,1051500000
+CT0636,2025-01-18,CL0523,Arrayanes,Bello,Apartamento VIS,57.7,245300000,Sala de ventas,Subsidio y crédito,Vendido,2025-05-25,234600000
+CT0637,2025-01-19,CL0489,Guayacanes,Itagüí,Apartamento No VIS,77.7,479000000,Referido,Crédito hipotecario,Vendido,2025-05-27,478300000
+CT0638,2025-01-20,CL0514,Ceibas,Sabaneta,Apartamento No VIS,102.9,830500000,Página web,Contado,Vendido,2025-05-24,815000000
+CT0639,2025-01-20,CL0524,Arrayanes,Bello,Apartamento VIS,47.5,201900000,Feria inmobiliaria,Crédito hipotecario,Vendido,2025-05-25,198100000
+CT0640,2025-01-22,CL0516,Robles,Rionegro,Casa,143.7,1035000000,Página web,Contado,Vendido,2025-04-11,996200000
+CT0641,2025-01-23,CL0523,Ceibas,Sabaneta,Apartamento VIS,46.6,198100000,Referido,Subsidio y crédito,Cotizado,,
+CT0642,2025-01-23,CL0526,Guayacanes,Itagüí,Apartamento VIS,53.2,226200000,Feria inmobiliaria,Subsidio y crédito,Cotizado,,
+CT0643,2025-01-25,CL0524,Yarumos,Medellín,Apartamento No VIS,74.9,604200000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0644,2025-01-27,CL0515,Samanes,Envigado,Casa,119.6,1118500000,Sala de ventas,Contado,Vendido,2025-06-19,1091700000
+CT0645,2025-01-30,CL0461,Ceibas,Sabaneta,Apartamento No VIS,67.8,503700000,Página web,Leasing habitacional,Cotizado,,
+CT0646,2025-01-31,CL0518,Yarumos,Medellín,Apartamento No VIS,82.2,696700000,Sala de ventas,Leasing habitacional,Cotizado,,
+CT0647,2025-02-01,CL0504,Yarumos,Medellín,Apartamento No VIS,80.0,669600000,Página web,Crédito hipotecario,Cotizado,,
+CT0648,2025-02-03,CL0529,Yarumos,Medellín,Apartamento No VIS,92.2,781400000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0649,2025-02-03,CL0539,Robles,Rionegro,Casa,147.6,1023900000,Feria inmobiliaria,Crédito hipotecario,Cotizado,,
+CT0650,2025-02-03,CL0543,Robles,Rionegro,Apartamento No VIS,117.1,897000000,Referido,Contado,Vendido,2025-07-01,896300000
+CT0651,2025-02-04,CL0495,Samanes,Envigado,Apartamento No VIS,78.7,731000000,Sala de ventas,Crédito hipotecario,Vendido,2025-04-12,702700000
+CT0652,2025-02-05,CL0547,Guayacanes,Itagüí,Apartamento No VIS,96.5,615100000,Referido,Crédito hipotecario,Separado,,
+CT0653,2025-02-07,CL0540,Arrayanes,Bello,Apartamento VIS,45.7,194300000,Referido,Subsidio y crédito,Desistido,2025-04-11,
+CT0654,2025-02-08,CL0534,Ceibas,Sabaneta,Apartamento VIS,59.5,252900000,Feria inmobiliaria,Crédito hipotecario,Vendido,2025-06-12,252900000
+CT0655,2025-02-08,CL0544,Arrayanes,Bello,Apartamento VIS,49.5,210400000,Página web,Crédito hipotecario,Cotizado,,
+CT0656,2025-02-09,CL0530,Guayacanes,Itagüí,Apartamento VIS,57.9,246100000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0657,2025-02-10,CL0542,Samanes,Envigado,Apartamento No VIS,92.5,879700000,Página web,Leasing habitacional,Vendido,2025-05-18,851400000
+CT0658,2025-02-14,CL0530,Guayacanes,Itagüí,Apartamento No VIS,66.2,466700000,Referido,Crédito hipotecario,Vendido,2025-06-15,451400000
+CT0659,2025-02-14,CL0531,Samanes,Envigado,Casa,122.2,1094100000,Página web,Crédito hipotecario,Cotizado,,
+CT0660,2025-02-15,CL0538,Guayacanes,Itagüí,Apartamento VIS,48.3,205300000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0661,2025-02-17,CL0536,Arrayanes,Bello,Apartamento VIS,45.9,195100000,Sala de ventas,Contado,Cotizado,,
+CT0662,2025-02-17,CL0548,Yarumos,Medellín,Apartamento No VIS,90.4,730300000,Referido,Contado,Vendido,2025-04-08,698500000
+CT0663,2025-02-21,CL0537,Guayacanes,Itagüí,Apartamento No VIS,70.0,487800000,Sala de ventas,Crédito hipotecario,Separado,,
+CT0664,2025-02-22,CL0545,Robles,Rionegro,Apartamento No VIS,102.2,778700000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0665,2025-02-24,CL0546,Yarumos,Medellín,Apartamento No VIS,65.5,515700000,Referido,Contado,Vendido,2025-04-25,512500000
+CT0666,2025-02-26,CL0532,Yarumos,Medellín,Apartamento No VIS,68.8,557700000,Sala de ventas,Contado,Vendido,2025-06-06,544200000
+CT0667,2025-02-26,CL0504,Yarumos,Medellín,Apartamento No VIS,66.6,557100000,Sala de ventas,Crédito hipotecario,Separado,,
+CT0668,2025-02-27,CL0535,Arrayanes,Bello,Apartamento VIS,51.3,218100000,Página web,Subsidio y crédito,Vendido,2025-06-02,215800000
+CT0669,2025-02-28,CL0533,Arrayanes,Bello,Apartamento VIS,58.9,250400000,Referido,Subsidio y crédito,Separado,,
+CT0670,2025-02-28,CL0541,Ceibas,Sabaneta,Apartamento No VIS,65.0,533900000,Sala de ventas,Contado,Cotizado,,
+CT0671,2025-03-01,CL0551,Arrayanes,Bello,Apartamento VIS,61.7,262300000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0672,2025-03-01,CL0568,Arrayanes,Bello,Apartamento VIS,58.0,246600000,Página web,Subsidio y crédito,Cotizado,,
+CT0673,2025-03-07,CL0566,Arrayanes,Bello,Apartamento VIS,55.1,234200000,Sala de ventas,Subsidio y crédito,Desistido,2025-04-10,
+CT0674,2025-03-09,CL0554,Samanes,Envigado,Apartamento No VIS,95.1,826900000,Feria inmobiliaria,Crédito hipotecario,Cotizado,,
+CT0675,2025-03-09,CL0554,Arrayanes,Bello,Apartamento VIS,48.5,206200000,Página web,Crédito hipotecario,Cotizado,,
+CT0676,2025-03-11,CL0559,Yarumos,Medellín,Apartamento No VIS,79.1,610500000,Página web,Crédito hipotecario,Separado,,
+CT0677,2025-03-11,CL0567,Ceibas,Sabaneta,Apartamento No VIS,93.7,707600000,Feria inmobiliaria,Crédito hipotecario,Vendido,2025-05-18,683100000
+CT0678,2025-03-12,CL0556,Yarumos,Medellín,Apartamento No VIS,110.6,921300000,Página web,Crédito hipotecario,Separado,,
+CT0679,2025-03-15,CL0561,Samanes,Envigado,Casa,147.9,1280300000,Feria inmobiliaria,Crédito hipotecario,Vendido,2025-06-08,1218500000
+CT0680,2025-03-17,CL0550,Arrayanes,Bello,Apartamento VIS,58.4,248300000,Sala de ventas,Subsidio y crédito,Vendido,2025-05-12,236300000
+CT0681,2025-03-17,CL0553,Samanes,Envigado,Casa,120.9,1036800000,Sala de ventas,Crédito hipotecario,Vendido,2025-08-01,987600000
+CT0682,2025-03-19,CL0555,Yarumos,Medellín,Apartamento No VIS,77.7,610100000,Referido,Contado,Separado,,
+CT0683,2025-03-19,CL0557,Yarumos,Medellín,Apartamento No VIS,103.6,893000000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0684,2025-03-20,CL0549,Ceibas,Sabaneta,Apartamento VIS,52.1,221500000,Página web,Subsidio y crédito,Cotizado,,
+CT0685,2025-03-20,CL0563,Arrayanes,Bello,Apartamento VIS,51.0,216800000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0686,2025-03-21,CL0562,Guayacanes,Itagüí,Apartamento No VIS,116.1,803100000,Sala de ventas,Contado,Cotizado,,
+CT0687,2025-03-23,CL0558,Arrayanes,Bello,Apartamento VIS,53.1,225700000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0688,2025-03-23,CL0561,Samanes,Envigado,Apartamento No VIS,85.8,813500000,Página web,Crédito hipotecario,Cotizado,,
+CT0689,2025-03-23,CL0564,Robles,Rionegro,Casa,121.3,895900000,Feria inmobiliaria,Crédito hipotecario,Vendido,2025-05-31,894800000
+CT0690,2025-03-24,CL0541,Guayacanes,Itagüí,Apartamento No VIS,106.1,685000000,Página web,Crédito hipotecario,Vendido,2025-05-17,652400000
+CT0691,2025-03-25,CL0552,Yarumos,Medellín,Apartamento No VIS,105.7,925500000,Sala de ventas,Leasing habitacional,Separado,,
+CT0692,2025-03-30,CL0565,Arrayanes,Bello,Apartamento VIS,50.8,216000000,Página web,Crédito hipotecario,Cotizado,,
+CT0693,2025-03-31,CL0560,Arrayanes,Bello,Apartamento VIS,55.8,237200000,Sala de ventas,Subsidio y crédito,Separado,,
+CT0694,2025-04-04,CL0585,Samanes,Envigado,Casa,146.1,1307500000,Referido,Crédito hipotecario,Vendido,2025-07-05,1275300000
+CT0695,2025-04-05,CL0566,Robles,Rionegro,Casa,159.0,1155300000,Página web,Leasing habitacional,Cotizado,,
+CT0696,2025-04-05,CL0579,Yarumos,Medellín,Apartamento No VIS,91.6,740100000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0697,2025-04-06,CL0584,Ceibas,Sabaneta,Apartamento No VIS,67.5,491500000,Referido,Leasing habitacional,Separado,,
+CT0698,2025-04-09,CL0575,Guayacanes,Itagüí,Apartamento No VIS,88.6,605100000,Página web,Crédito hipotecario,Cotizado,,
+CT0699,2025-04-10,CL0511,Yarumos,Medellín,Apartamento No VIS,115.4,1013700000,Sala de ventas,Crédito hipotecario,Separado,,
+CT0700,2025-04-12,CL0569,Robles,Rionegro,Casa,129.6,942800000,Sala de ventas,Leasing habitacional,Vendido,2025-08-24,924500000
+CT0701,2025-04-12,CL0583,Yarumos,Medellín,Apartamento No VIS,67.1,580700000,Feria inmobiliaria,Crédito hipotecario,Vendido,2025-08-08,570200000
+CT0702,2025-04-14,CL0580,Robles,Rionegro,Apartamento No VIS,67.6,468600000,Referido,Crédito hipotecario,Cotizado,,
+CT0703,2025-04-15,CL0578,Robles,Rionegro,Casa,125.2,955100000,Sala de ventas,Crédito hipotecario,Vendido,2025-06-10,942200000
+CT0704,2025-04-16,CL0573,Robles,Rionegro,Casa,164.6,1151100000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0705,2025-04-17,CL0570,Guayacanes,Itagüí,Apartamento VIS,51.6,219400000,Referido,Subsidio y crédito,Cotizado,,
+CT0706,2025-04-18,CL0542,Robles,Rionegro,Apartamento No VIS,92.6,667000000,Feria inmobiliaria,Contado,Cotizado,,
+CT0707,2025-04-19,CL0572,Arrayanes,Bello,Apartamento VIS,53.0,225300000,Página web,Crédito hipotecario,Desistido,2025-07-15,
+CT0708,2025-04-20,CL0576,Yarumos,Medellín,Apartamento No VIS,112.0,928700000,Sala de ventas,Crédito hipotecario,Vendido,2025-06-30,882300000
+CT0709,2025-04-22,CL0582,Arrayanes,Bello,Apartamento VIS,48.5,206200000,Referido,Subsidio y crédito,Desistido,2025-06-26,
+CT0710,2025-04-22,CL0586,Yarumos,Medellín,Apartamento No VIS,70.5,569200000,Página web,Crédito hipotecario,Separado,,
+CT0711,2025-04-23,CL0574,Guayacanes,Itagüí,Apartamento VIS,57.9,246100000,Página web,Subsidio y crédito,Vendido,2025-08-06,243300000
+CT0712,2025-04-24,CL0577,Ceibas,Sabaneta,Apartamento VIS,57.1,242700000,Página web,Subsidio y crédito,Cotizado,,
+CT0713,2025-04-26,CL0587,Samanes,Envigado,Apartamento No VIS,111.6,987400000,Referido,Crédito hipotecario,Cotizado,,
+CT0714,2025-04-28,CL0571,Guayacanes,Itagüí,Apartamento VIS,58.6,249100000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0715,2025-04-29,CL0581,Samanes,Envigado,Casa,156.0,1491200000,Referido,Crédito hipotecario,Cotizado,,
+CT0716,2025-05-02,CL0591,Guayacanes,Itagüí,Apartamento VIS,57.9,246100000,Página web,Crédito hipotecario,Cotizado,,
+CT0717,2025-05-02,CL0595,Robles,Rionegro,Apartamento No VIS,93.3,707900000,Sala de ventas,Crédito hipotecario,Vendido,2025-06-21,688300000
+CT0718,2025-05-02,CL0601,Guayacanes,Itagüí,Apartamento VIS,47.9,203600000,Sala de ventas,Subsidio y crédito,Vendido,2025-07-03,199000000
+CT0719,2025-05-03,CL0588,Samanes,Envigado,Apartamento No VIS,86.7,844400000,Página web,Leasing habitacional,Separado,,
+CT0720,2025-05-03,CL0546,Yarumos,Medellín,Apartamento No VIS,85.7,715600000,Referido,Contado,Cotizado,,
+CT0721,2025-05-03,CL0556,Robles,Rionegro,Apartamento No VIS,78.6,578300000,Feria inmobiliaria,Crédito hipotecario,Cotizado,,
+CT0722,2025-05-05,CL0593,Yarumos,Medellín,Apartamento No VIS,96.7,748300000,Página web,Crédito hipotecario,Cotizado,,
+CT0723,2025-05-09,CL0589,Yarumos,Medellín,Apartamento No VIS,93.7,794400000,Sala de ventas,Leasing habitacional,Cotizado,,
+CT0724,2025-05-10,CL0583,Guayacanes,Itagüí,Apartamento VIS,46.0,195500000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0725,2025-05-11,CL0599,Yarumos,Medellín,Apartamento No VIS,99.3,822700000,Sala de ventas,Crédito hipotecario,Vendido,2025-09-09,786500000
+CT0726,2025-05-13,CL0529,Yarumos,Medellín,Apartamento No VIS,61.9,503900000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0727,2025-05-13,CL0594,Arrayanes,Bello,Apartamento VIS,44.6,189600000,Página web,Subsidio y crédito,Desistido,2025-09-02,
+CT0728,2025-05-14,CL0604,Robles,Rionegro,Casa,134.5,991700000,Página web,Crédito hipotecario,Cotizado,,
+CT0729,2025-05-15,CL0590,Samanes,Envigado,Apartamento No VIS,102.9,926700000,Página web,Contado,Vendido,2025-09-23,914200000
+CT0730,2025-05-21,CL0596,Ceibas,Sabaneta,Apartamento No VIS,110.1,806400000,Página web,Leasing habitacional,Cotizado,,
+CT0731,2025-05-23,CL0597,Robles,Rionegro,Casa,140.8,1060600000,Referido,Crédito hipotecario,Cotizado,,
+CT0732,2025-05-24,CL0592,Robles,Rionegro,Casa,130.7,923400000,Sala de ventas,Contado,Cotizado,,
+CT0733,2025-05-25,CL0565,Arrayanes,Bello,Apartamento VIS,60.4,256800000,Feria inmobiliaria,Subsidio y crédito,Cotizado,,
+CT0734,2025-05-26,CL0602,Yarumos,Medellín,Apartamento No VIS,61.9,540000000,Sala de ventas,Crédito hipotecario,Vendido,2025-08-07,517300000
+CT0735,2025-05-29,CL0598,Robles,Rionegro,Casa,98.2,721000000,Página web,Leasing habitacional,Cotizado,,
+CT0736,2025-05-30,CL0600,Ceibas,Sabaneta,Apartamento VIS,54.7,232500000,Referido,Subsidio y crédito,Cotizado,,
+CT0737,2025-05-31,CL0603,Samanes,Envigado,Apartamento No VIS,85.8,766700000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0738,2025-06-02,CL0605,Arrayanes,Bello,Apartamento VIS,62.0,263600000,Página web,Subsidio y crédito,Desistido,2025-09-26,
+CT0739,2025-06-03,CL0614,Yarumos,Medellín,Apartamento No VIS,69.0,565900000,Sala de ventas,Leasing habitacional,Cotizado,,
+CT0740,2025-06-03,CL0622,Robles,Rionegro,Apartamento No VIS,70.5,471000000,Página web,Crédito hipotecario,Cotizado,,
+CT0741,2025-06-03,CL0613,Samanes,Envigado,Casa,143.9,1331500000,Página web,Crédito hipotecario,Desistido,2025-08-22,
+CT0742,2025-06-04,CL0607,Ceibas,Sabaneta,Apartamento No VIS,98.5,781800000,Página web,Leasing habitacional,Cotizado,,
+CT0743,2025-06-04,CL0608,Ceibas,Sabaneta,Apartamento VIS,48.4,205700000,Referido,Contado,Cotizado,,
+CT0744,2025-06-05,CL0617,Robles,Rionegro,Casa,164.3,1250400000,Sala de ventas,Contado,Cotizado,,
+CT0745,2025-06-06,CL0616,Robles,Rionegro,Casa,147.9,1006600000,Página web,Crédito hipotecario,Cotizado,,
+CT0746,2025-06-06,CL0618,Guayacanes,Itagüí,Apartamento VIS,51.6,219400000,Página web,Subsidio y crédito,Desistido,2025-07-15,
+CT0747,2025-06-06,CL0621,Ceibas,Sabaneta,Apartamento VIS,59.2,251700000,Sala de ventas,Subsidio y crédito,Vendido,2025-10-28,250800000
+CT0748,2025-06-08,CL0608,Robles,Rionegro,Apartamento No VIS,63.3,446000000,Sala de ventas,Crédito hipotecario,Vendido,2025-09-04,428600000
+CT0749,2025-06-08,CL0615,Ceibas,Sabaneta,Apartamento No VIS,69.9,571500000,Sala de ventas,Contado,Cotizado,,
+CT0750,2025-06-10,CL0561,Guayacanes,Itagüí,Apartamento VIS,59.6,253400000,Página web,Subsidio y crédito,Separado,,
+CT0751,2025-06-13,CL0591,Ceibas,Sabaneta,Apartamento No VIS,73.8,560200000,Página web,Crédito hipotecario,Cotizado,,
+CT0752,2025-06-14,CL0613,Guayacanes,Itagüí,Apartamento VIS,55.7,236800000,Feria inmobiliaria,Subsidio y crédito,Cotizado,,
+CT0753,2025-06-14,CL0620,Robles,Rionegro,Apartamento No VIS,116.3,868000000,Página web,Crédito hipotecario,Cotizado,,
+CT0754,2025-06-20,CL0612,Guayacanes,Itagüí,Apartamento VIS,58.9,250400000,Página web,Subsidio y crédito,Vendido,2025-08-26,248100000
+CT0755,2025-06-21,CL0563,Robles,Rionegro,Apartamento No VIS,60.2,405700000,Página web,Leasing habitacional,Vendido,2025-08-15,387900000
+CT0756,2025-06-31,CL0619,Ceibas,Sabaneta,Apartamento VIS,53.3,226600000,Página web,Subsidio y crédito,Desistido,2025-10-16,
+CT0757,2025-06-22,CL0611,Guayacanes,Itagüí,Apartamento VIS,47.4,201500000,Sala de ventas,Contado,Desistido,2025-09-06,
+CT0758,2025-06-24,CL0609,Arrayanes,Bello,Apartamento VIS,57.0,242300000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0759,2025-06-28,CL0606,Ceibas,Sabaneta,Apartamento VIS,52.4,222800000,Feria inmobiliaria,Subsidio y crédito,Cotizado,,
+CT0760,2025-06-28,CL0577,Guayacanes,Itagüí,Apartamento No VIS,60.0,387300000,Sala de ventas,Contado,Vendido,2025-10-30,374900000
+CT0761,2025-06-30,CL0610,Ceibas,Sabaneta,Apartamento VIS,44.5,189200000,Página web,Crédito hipotecario,Cotizado,,
+CT0762,2025-07-01,CL0635,Arrayanes,Bello,Apartamento VIS,0,200600000,Referido,Subsidio y crédito,Cotizado,,
+CT0763,2025-07-02,CL0628,Guayacanes,Itagüí,Apartamento No VIS,78.2,550200000,Referido,Crédito hipotecario,Vendido,2025-09-20,526200000
+CT0764,2025-07-03,CL0636,Ceibas,Sabaneta,Apartamento No VIS,67.7,522900000,Sala de ventas,Leasing habitacional,Separado,,
+CT0765,2025-07-04,CL0624,Guayacanes,Itagüí,Apartamento No VIS,83.1,550800000,Página web,Crédito hipotecario,Cotizado,,
+CT0766,2025-07-05,CL0632,Robles,Rionegro,Casa,104.0,728400000,Página web,Crédito hipotecario,Cotizado,,
+CT0767,2025-07-06,CL0597,Robles,Rionegro,Apartamento No VIS,73.5,544800000,Feria inmobiliaria,Crédito hipotecario,Cotizado,,
+CT0768,2025-07-08,CL0613,Robles,Rionegro,Casa,106.7,744200000,Sala de ventas,Leasing habitacional,Vendido,2025-10-03,739000000
+CT0769,2025-07-08,CL0633,Guayacanes,Itagüí,Apartamento VIS,44.5,189200000,Página web,Subsidio y crédito,Separado,,
+CT0770,2025-07-10,CL0631,Guayacanes,Itagüí,Apartamento VIS,47.9,203600000,Sala de ventas,Subsidio y crédito,Vendido,2025-09-09,200200000
+CT0771,2025-07-13,CL0592,Guayacanes,Itagüí,Apartamento VIS,56.0,238100000,Página web,Subsidio y crédito,Cotizado,,
+CT0772,2025-07-13,CL0637,Yarumos,Medellín,Apartamento No VIS,108.7,904600000,Sala de ventas,Contado,Separado,,
+CT0773,2025-07-14,CL0639,Samanes,Envigado,Casa,143.9,1332700000,Referido,Crédito hipotecario,Vendido,2025-09-05,1308800000
+CT0774,2025-07-17,CL0629,Yarumos,Medellín,Apartamento No VIS,98.8,851100000,Página web,Contado,Cotizado,,
+CT0775,2025-07-18,CL0625,Samanes,Envigado,Casa,121.3,1112000000,Feria inmobiliaria,Contado,Cotizado,,
+CT0776,2025-07-18,CL0626,Arrayanes,Bello,Apartamento VIS,50.9,216400000,Página web,Subsidio y crédito,Cotizado,,
+CT0777,2025-07-20,CL0583,Samanes,Envigado,Casa,141.4,1353500000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0778,2025-07-23,CL0627,Yarumos,Medellín,Apartamento No VIS,72.3,635500000,Sala de ventas,Contado,Desistido,2025-09-14,
+CT0779,2025-07-23,CL0640,Ceibas,Sabaneta,Apartamento No VIS,116.2,870900000,Página web,Crédito hipotecario,Cotizado,,
+CT0780,2025-07-25,CL0623,Arrayanes,Bello,Apartamento VIS,48.0,204000000,Página web,Subsidio y crédito,Desistido,2025-09-27,
+CT0781,2025-07-28,CL0630,Guayacanes,Itagüí,Apartamento VIS,49.9,212100000,Sala de ventas,Subsidio y crédito,Vendido,2025-10-02,208000000
+CT0782,2025-07-30,CL0634,Yarumos,Medellín,Apartamento No VIS,84.8,682900000,Sala de ventas,Crédito hipotecario,Desistido,2025-10-19,
+CT0783,2025-07-31,CL0638,Ceibas,Sabaneta,Apartamento VIS,46.0,195500000,Página web,Subsidio y crédito,Cotizado,,
+CT0784,2025-08-01,CL0657,Guayacanes,Itagüí,Apartamento No VIS,80.4,506900000,Sala de ventas,Leasing habitacional,Vendido,2025-10-12,496200000
+CT0785,2025-08-02,CL0644,Yarumos,Medellín,Apartamento No VIS,96.5,772100000,Sala de ventas,Contado,Vendido,2025-10-06,744600000
+CT0786,2025-08-02,CL0655,Robles,Rionegro,Apartamento No VIS,62.4,458100000,Página web,Contado,Cotizado,,
+CT0787,2025-08-03,CL0656,Robles,Rionegro,Apartamento No VIS,86.6,631700000,Referido,Contado,Vendido,2025-09-22,611500000
+CT0788,2025-08-03,CL0658,Ceibas,Sabaneta,Apartamento No VIS,72.5,602900000,Feria inmobiliaria,Contado,Separado,,
+CT0789,2025-08-06,CL0645,Arrayanes,Bello,Apartamento VIS,59.9,254600000,Referido,Subsidio y crédito,Cotizado,,
+CT0790,2025-08-09,CL0641,Guayacanes,Itagüí,Apartamento No VIS,78.2,535300000,Sala de ventas,Leasing habitacional,Cotizado,,
+CT0791,2025-08-09,CL0647,Samanes,Envigado,Apartamento No VIS,105.9,937500000,Página web,Crédito hipotecario,Cotizado,,
+CT0792,2025-08-12,CL0649,Samanes,Envigado,Casa,125.6,1193400000,Página web,Leasing habitacional,Cotizado,,
+CT0793,2025-08-15,CL0643,Arrayanes,Bello,Apartamento VIS,59.3,252100000,Sala de ventas,Subsidio y crédito,Desistido,2025-09-06,
+CT0794,2025-08-19,CL0642,Yarumos,Medellín,Apartamento No VIS,93.0,775300000,Referido,Leasing habitacional,Vendido,2025-10-24,766800000
+CT0795,2025-08-20,CL0606,Yarumos,Medellín,Apartamento No VIS,90.6,749300000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0795,2025-08-20,CL0606,Yarumos,Medellín,Apartamento No VIS,90.6,749300000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0796,2025-08-20,CL0602,Yarumos,Medellín,Apartamento No VIS,77.5,613700000,Sala de ventas,Crédito hipotecario,Desistido,2025-09-16,
+CT0797,2025-08-22,CL0650,Ceibas,Sabaneta,Apartamento VIS,47.5,201900000,Página web,Subsidio y crédito,Desistido,2025-10-25,
+CT0798,2025-08-22,CL0659,Guayacanes,Itagüí,Apartamento No VIS,58.3,393300000,Referido,Crédito hipotecario,Vendido,2026-01-05,380500000
+CT0799,2025-08-23,CL0651,Ceibas,Sabaneta,Apartamento No VIS,73.4,571500000,Sala de ventas,Crédito hipotecario,Vendido,2025-10-07,558100000
+CT0800,2025-08-23,CL0654,Ceibas,Sabaneta,Apartamento No VIS,58.5,475900000,Página web,Crédito hipotecario,Cotizado,,
+CT0801,2025-08-24,CL0653,Arrayanes,Bello,Apartamento VIS,59.2,251700000,Referido,Subsidio y crédito,Cotizado,,
+CT0802,2025-08-28,CL0648,Samanes,Envigado,Casa,146.6,1250500000,Sala de ventas,Contado,Vendido,2025-11-30,1247600000
+CT0803,2025-08-28,CL0652,Ceibas,Sabaneta,Apartamento VIS,48.1,204500000,Referido,Crédito hipotecario,Desistido,2025-09-28,
+CT0804,2025-08-29,CL0646,Samanes,Envigado,Apartamento No VIS,97.0,862800000,Sala de ventas,Crédito hipotecario,Vendido,2025-11-17,837500000
+CT0805,2025-09-01,CL0648,Guayacanes,Itagüí,Apartamento VIS,52.2,221900000,Feria inmobiliaria,Crédito hipotecario,Vendido,2025-11-21,220500000
+CT0806,2025-09-05,CL0666,Guayacanes,Itagüí,Apartamento No VIS,117.2,745500000,Página web,Crédito hipotecario,Cotizado,,
+CT0807,2025-09-05,CL0667,Samanes,Envigado,Casa,151.9,1290700000,Sala de ventas,Leasing habitacional,Cotizado,,
+CT0808,2025-09-08,CL0660,Yarumos,Medellín,Apartamento No VIS,104.9,923900000,Referido,Crédito hipotecario,Cotizado,,
+CT0809,2025-09-10,CL0674,Ceibas,Sabaneta,Apartamento VIS,60.8,258500000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0810,2025-09-13,CL0662,Ceibas,Sabaneta,Apartamento VIS,52.3,222300000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0811,2025-09-15,CL0628,Samanes,Envigado,Casa,121.3,1035800000,Sala de ventas,Contado,Vendido,2026-01-08,987100000
+CT0812,2025-09-17,CL0669,Yarumos,Medellín,Apartamento No VIS,81.0,633300000,Página web,Crédito hipotecario,Cotizado,,
+CT0813,2025-09-18,CL0672,Robles,Rionegro,Apartamento No VIS,77.5,590200000,Referido,Crédito hipotecario,Vendido,2026-01-03,584400000
+CT0814,2025-09-19,CL0653,Yarumos,Medellín,Apartamento No VIS,69.7,562800000,Página web,Crédito hipotecario,Cotizado,,
+CT0815,2025-09-20,CL0661,Ceibas,Sabaneta,Apartamento VIS,55.1,234200000,Feria inmobiliaria,Crédito hipotecario,Cotizado,,
+CT0816,2025-09-20,CL0663,Robles,Rionegro,Casa,107.4,789900000,Feria inmobiliaria,Crédito hipotecario,Cotizado,,
+CT0817,2025-09-20,CL0673,Ceibas,Sabaneta,Apartamento No VIS,67.9,504500000,Sala de ventas,Contado,Cotizado,,
+CT0818,2025-09-21,CL0665,Guayacanes,Itagüí,Apartamento VIS,51.6,219400000,Página web,Crédito hipotecario,Cotizado,,
+CT0819,2025-09-21,CL0670,Samanes,Envigado,Apartamento No VIS,77.6,732500000,Página web,Crédito hipotecario,Cotizado,,
+CT0820,2025-09-22,CL0638,Samanes,Envigado,Apartamento No VIS,60.0,576200000,Sala de ventas,Contado,Desistido,2025-11-04,
+CT0821,2025-09-24,CL0671,Guayacanes,Itagüí,Apartamento No VIS,99.3,633100000,Sala de ventas,Crédito hipotecario,Vendido,2026-01-22,625600000
+CT0822,2025-09-24,CL0675,Samanes,Envigado,Apartamento No VIS,97.6,939600000,Página web,Contado,Separado,,
+CT0823,2025-09-25,CL0668,Robles,Rionegro,Casa,121.8,828700000,Página web,Leasing habitacional,Cotizado,,
+CT0824,2025-09-26,CL0676,Samanes,Envigado,Casa,134.6,1212100000,Sala de ventas,Crédito hipotecario,Vendido,2026-01-11,1205100000
+CT0825,2025-09-27,CL0664,Ceibas,Sabaneta,Apartamento No VIS,115.6,843200000,Feria inmobiliaria,Leasing habitacional,Cotizado,,
+CT0826,2025-09-27,CL0620,Yarumos,Medellín,Apartamento No VIS,97.2,776200000,Página web,Crédito hipotecario,Vendido,2025-12-31,747000000
+CT0827,2025-10-02,CL0677,Yarumos,Medellín,Apartamento No VIS,113.7,928500000,Página web,Leasing habitacional,Vendido,2025-12-09,895000000
+CT0828,2025-10-03,CL0695,Samanes,Envigado,Casa,161.3,1457200000,Página web,Contado,Vendido,2025-12-13,1453100000
+CT0829,2025-10-07,CL0686,Ceibas,Sabaneta,Apartamento VIS,60.4,256800000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0830,2025-10-08,CL0694,Yarumos,Medellín,Apartamento No VIS,88.8,736900000,Sala de ventas,Leasing habitacional,Cotizado,,
+CT0831,2025-10-09,CL0690,Arrayanes,Bello,Apartamento VIS,55.1,234200000,Sala de ventas,Crédito hipotecario,Separado,,
+CT0832,2025-10-10,CL0679,Arrayanes,Bello,Apartamento VIS,59.8,254200000,Feria inmobiliaria,Subsidio y crédito,Separado,,
+CT0833,2025-10-10,CL0681,Samanes,Envigado,Casa,114.0,1082500000,Feria inmobiliaria,Leasing habitacional,Cotizado,,
+CT0834,2025-10-10,CL0678,Robles,Rionegro,Apartamento No VIS,72.1,512100000,Página web,Crédito hipotecario,Cotizado,,
+CT0835,2025-10-13,CL0691,Ceibas,Sabaneta,Apartamento No VIS,68.5,510900000,Sala de ventas,Contado,Vendido,2025-12-28,485400000
+CT0836,2025-10-14,CL0673,Ceibas,Sabaneta,Apartamento No VIS,59.4,449600000,Página web,Crédito hipotecario,Cotizado,,
+CT0837,2025-10-18,CL0688,Ceibas,Sabaneta,Apartamento No VIS,114.6,913200000,Feria inmobiliaria,Crédito hipotecario,Separado,,
+CT0838,2025-10-19,CL0678,Robles,Rionegro,Casa,137.8,955000000,Página web,Crédito hipotecario,Cotizado,,
+CT0839,2025-10-20,CL0682,Robles,Rionegro,Apartamento No VIS,83.7,636700000,Página web,Crédito hipotecario,Cotizado,,
+CT0840,2025-10-22,CL0692,Samanes,Envigado,Casa,120.2,1083900000,Página web,Contado,Desistido,2025-11-25,
+CT0841,2025-10-24,CL0646,Ceibas,Sabaneta,Apartamento VIS,44.6,189600000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0842,2025-10-25,CL0684,Ceibas,Sabaneta,Apartamento No VIS,98.1,743100000,Página web,Crédito hipotecario,Vendido,2026-03-14,740100000
+CT0843,2025-10-28,CL0693,Ceibas,Sabaneta,Apartamento VIS,52.5,223200000,Página web,Crédito hipotecario,Cotizado,,
+CT0844,2025-10-28,CL0696,Robles,Rionegro,Apartamento No VIS,110.0,834200000,Sala de ventas,Contado,Separado,,
+CT0845,2025-10-29,CL0685,Arrayanes,Bello,Apartamento VIS,49.9,212100000,Página web,Subsidio y crédito,Cotizado,,
+CT0846,2025-10-29,CL0687,Ceibas,Sabaneta,Apartamento No VIS,103.7,763700000,Referido,Crédito hipotecario,Vendido,2026-02-17,747700000
+CT0847,2025-10-29,CL0689,Guayacanes,Itagüí,Apartamento No VIS,59.1,376700000,Feria inmobiliaria,Crédito hipotecario,Vendido,2025-12-24,369700000
+CT0848,2025-10-30,CL0683,Ceibas,Sabaneta,Apartamento VIS,57.6,244900000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0849,2025-10-31,CL0680,Yarumos,Medellín,Apartamento No VIS,71.4,576400000,Sala de ventas,Crédito hipotecario,Vendido,2026-01-09,547800000
+CT0850,2025-11-01,CL0700,Yarumos,Medellín,Apartamento No VIS,115.6,935500000,Sala de ventas,Contado,Cotizado,,
+CT0851,2025-11-01,CL0712,Guayacanes,Itagüí,Apartamento No VIS,71.9,447800000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0852,2025-11-03,CL0705,Yarumos,Medellín,Apartamento No VIS,98.6,791500000,Sala de ventas,Contado,Separado,,
+CT0853,2025-11-05,CL0704,Robles,Rionegro,Casa,149.9,1101800000,Página web,Crédito hipotecario,Cotizado,,
+CT0854,2025-11-07,CL0698,Yarumos,Medellín,Apartamento No VIS,111.1,977500000,Referido,Contado,Cotizado,,
+CT0855,2025-11-07,CL0715,Samanes,Envigado,Casa,114.7,1058300000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0856,2025-11-08,CL0714,Samanes,Envigado,Casa,137.9,1215200000,Sala de ventas,Contado,Cotizado,,
+CT0857,2025-11-10,CL0716,Yarumos,Medellín,Apartamento No VIS,65.6,536000000,Feria inmobiliaria,Leasing habitacional,Desistido,2026-02-27,
+CT0858,2025-11-10,CL0706,Yarumos,Medellín,Apartamento No VIS,112.2,876700000,Página web,Crédito hipotecario,Cotizado,,
+CT0859,2025-11-12,CL0676,Guayacanes,Itagüí,Apartamento VIS,48.0,204000000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0860,2025-11-12,CL0710,Arrayanes,Bello,Apartamento VIS,44.2,187900000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0861,2025-11-14,CL0697,Ceibas,Sabaneta,Apartamento VIS,45.7,194300000,Sala de ventas,Subsidio y crédito,Separado,,
+CT0862,2025-11-14,CL0709,Yarumos,Medellín,Apartamento No VIS,80.8,620300000,Página web,Leasing habitacional,Desistido,2026-02-07,
+CT0863,2025-11-15,CL0711,Robles,Rionegro,Apartamento No VIS,83.8,575800000,Referido,Contado,Vendido,2026-02-23,549700000
+CT0864,2025-11-16,CL0694,Guayacanes,Itagüí,Apartamento No VIS,77.7,502300000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0865,2025-11-18,CL0706,Guayacanes,Itagüí,Apartamento VIS,56.0,238100000,Página web,Subsidio y crédito,Separado,,
+CT0866,2025-11-23,CL0671,Robles,Rionegro,Casa,138.9,978200000,Feria inmobiliaria,Crédito hipotecario,Desistido,2026-01-13,
+CT0867,2025-11-24,CL0699,Robles,Rionegro,Apartamento No VIS,85.6,644100000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0868,2025-11-26,CL0703,Samanes,Envigado,Casa,104.1,925500000,Sala de ventas,Crédito hipotecario,Separado,,
+CT0869,2025-11-27,CL0701,Guayacanes,Itagüí,Apartamento No VIS,74.2,471200000,Página web,Contado,Cotizado,,
+CT0870,2025-11-27,CL0658,Arrayanes,Bello,Apartamento VIS,56.6,240600000,Sala de ventas,Subsidio y crédito,Desistido,2026-03-10,
+CT0871,2025-11-27,CL0702,Robles,Rionegro,Casa,155.6,1157600000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0872,2025-11-28,CL0707,Yarumos,Medellín,Apartamento No VIS,67.2,579100000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0873,2025-11-28,CL0708,Arrayanes,Bello,Apartamento VIS,53.6,227900000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0874,2025-11-28,CL0713,Ceibas,Sabaneta,Apartamento No VIS,89.7,735500000,Feria inmobiliaria,Crédito hipotecario,Vendido,2026-03-31,709700000
+CT0875,2025-12-01,CL0707,Yarumos,Medellín,Apartamento No VIS,93.4,730100000,Referido,Crédito hipotecario,Cotizado,,
+CT0876,2025-12-03,CL0729,Samanes,Envigado,Apartamento No VIS,83.7,749700000,Página web,Contado,Desistido,2026-03-10,
+CT0877,2025-12-04,CL0698,Robles,Rionegro,Apartamento No VIS,92.0,657700000,Feria inmobiliaria,Crédito hipotecario,Cotizado,,
+CT0878,2025-12-04,CL0730,Samanes,Envigado,Apartamento No VIS,61.1,581300000,Feria inmobiliaria,Contado,Vendido,2026-02-24,560700000
+CT0879,2025-12-09,CL0734,Yarumos,Medellín,Apartamento No VIS,71.3,555400000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0880,2025-12-10,CL0727,Arrayanes,Bello,Apartamento VIS,45.0,191300000,Página web,Subsidio y crédito,Cotizado,,
+CT0881,2025-12-12,CL0721,Ceibas,Sabaneta,Apartamento VIS,46.5,197700000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0882,2025-12-12,CL0714,Robles,Rionegro,Casa,147.4,1049700000,Referido,Crédito hipotecario,Desistido,2026-02-21,
+CT0883,2025-12-12,CL0733,Robles,Rionegro,Casa,106.3,765100000,Sala de ventas,Leasing habitacional,Separado,,
+CT0884,2025-12-13,CL0719,Guayacanes,Itagüí,Apartamento VIS,50.4,214300000,Sala de ventas,Subsidio y crédito,Vendido,2026-03-24,214300000
+CT0885,2025-12-14,CL0726,Ceibas,Sabaneta,Apartamento VIS,61.1,259700000,Sala de ventas,Crédito hipotecario,Vendido,2026-04-12,257200000
+CT0886,2025-12-15,CL0732,Arrayanes,Bello,Apartamento VIS,44.3,188300000,Página web,Subsidio y crédito,Vendido,2026-04-19,183000000
+CT0887,2025-12-16,CL0724,Robles,Rionegro,Casa,120.9,893400000,Página web,Contado,Cotizado,,
+CT0888,2025-12-17,CL0725,Robles,Rionegro,Apartamento No VIS,98.7,733800000,Página web,Leasing habitacional,Desistido,2026-03-17,
+CT0889,2025-12-20,CL0720,Robles,Rionegro,Casa,111.5,848500000,Sala de ventas,Contado,Vendido,2026-02-24,812800000
+CT0890,2025-12-20,CL0719,Robles,Rionegro,Apartamento No VIS,63.2,460500000,Página web,Leasing habitacional,Cotizado,,
+CT0891,2025-12-21,CL0727,Arrayanes,Bello,Apartamento VIS,54.7,232500000,Sala de ventas,Contado,Vendido,2026-02-13,227500000
+CT0892,2025-12-22,CL0718,Yarumos,Medellín,Apartamento No VIS,66.0,563600000,Feria inmobiliaria,Contado,Separado,,
+CT0893,2025-12-24,CL0735,Guayacanes,Itagüí,Apartamento VIS,59.9,254600000,Feria inmobiliaria,Subsidio y crédito,Vendido,2026-02-28,246600000
+CT0894,2025-12-25,CL0693,Robles,Rionegro,Apartamento No VIS,67.5,485900000,Sala de ventas,Crédito hipotecario,Separado,,
+CT0895,2025-12-27,CL0717,Ceibas,Sabaneta,Apartamento VIS,57.9,246100000,Página web,Subsidio y crédito,Cotizado,,
+CT0896,2025-12-27,CL0728,Arrayanes,Bello,Apartamento VIS,59.7,253800000,Sala de ventas,Crédito hipotecario,Separado,,
+CT0897,2025-12-31,CL0722,Ceibas,Sabaneta,Apartamento No VIS,80.7,646100000,Página web,Crédito hipotecario,Vendido,2026-03-06,629200000
+CT0898,2025-12-31,CL0723,Samanes,Envigado,Apartamento No VIS,96.4,921400000,Feria inmobiliaria,Leasing habitacional,Vendido,2026-04-05,917400000
+CT0899,2025-12-31,CL0731,Ceibas,Sabaneta,Apartamento No VIS,96.1,747300000,Feria inmobiliaria,Contado,Cotizado,,
+CT0900,2026-01-01,CL0742,Guayacanes,Itagüí,Apartamento VIS,44.8,207600000,Página web,Subsidio y crédito,Desistido,2026-01-24,
+CT0901,2026-01-01,CL0744,Samanes,Envigado,Casa,162.2,1611300000,Sala de ventas,Contado,Cotizado,,
+CT0902,2026-01-12,CL0747,Samanes,Envigado,Apartamento No VIS,87.0,839000000,Feria inmobiliaria,Contado,Vendido,2026-04-07,819600000
+CT0903,2026-01-14,CL0741,Guayacanes,Itagüí,Apartamento No VIS,108.5,787900000,Página web,Crédito hipotecario,Cotizado,,
+CT0904,2026-01-14,CL0743,Robles,Rionegro,Casa,103.9,857300000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0905,2026-01-16,CL0749,Guayacanes,Itagüí,Apartamento No VIS,101.8,781200000,Feria inmobiliaria,Crédito hipotecario,Cotizado,,
+CT0906,2026-01-17,CL0751,Samanes,Envigado,Casa,142.9,1343100000,Referido,Contado,Cotizado,,
+CT0907,2026-01-18,CL0737,Guayacanes,Itagüí,Apartamento VIS,59.0,273400000,Página web,Subsidio y crédito,Cotizado,,
+CT0908,2026-01-21,CL0748,Ceibas,Sabaneta,Apartamento VIS,45.5,210800000,Feria inmobiliaria,Subsidio y crédito,Cotizado,,
+CT0909,2026-01-22,CL0739,Ceibas,Sabaneta,Apartamento VIS,44.5,206200000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0910,2026-01-22,CL0746,Robles,Rionegro,Apartamento No VIS,104.4,793300000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0911,2026-01-23,CL0736,Yarumos,Medellín,Apartamento No VIS,108.7,1030500000,Página web,Crédito hipotecario,Separado,,
+CT0912,2026-01-24,CL0745,Guayacanes,Itagüí,Apartamento No VIS,81.7,626200000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0913,2026-01-28,CL0740,Samanes,Envigado,Casa,127.3,1194500000,Referido,Crédito hipotecario,Desistido,2026-03-13,
+CT0914,2026-01-29,CL0738,Robles,Rionegro,Apartamento No VIS,93.8,695700000,Página web,Crédito hipotecario,Cotizado,,
+CT0915,2026-01-29,CL0750,Robles,Rionegro,Casa,137.7,1041800000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0916,2026-01-30,CL0726,Arrayanes,Bello,Apartamento VIS,49.8,230800000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0917,2026-01-30,CL0729,Yarumos,Medellín,Apartamento No VIS,105.0,914900000,Página web,Crédito hipotecario,Cotizado,,
+CT0918,2026-02-04,CL0760,Robles,Rionegro,Casa,102.4,806800000,Feria inmobiliaria,Contado,Vendido,2026-05-25,774500000
+CT0919,2026-02-04,CL0761,Samanes,Envigado,Apartamento No VIS,83.8,851100000,Feria inmobiliaria,Leasing habitacional,Cotizado,,
+CT0920,2026-02-04,CL0763,Guayacanes,Itagüí,Apartamento VIS,47.7,221000000,Página web,Crédito hipotecario,Cotizado,,
+CT0921,2026-02-04,CL0753,Ceibas,Sabaneta,Apartamento VIS,48.5,224700000,Referido,Subsidio y crédito,Desistido,2026-02-26,
+CT0922,2026-02-05,CL0765,Yarumos,Medellín,Apartamento No VIS,60.7,561800000,Página web,Crédito hipotecario,Cotizado,,
+CT0923,2026-02-06,CL0764,Ceibas,Sabaneta,Apartamento VIS,47.3,219200000,Página web,Subsidio y crédito,Desistido,2026-06-04,
+CT0924,2026-02-09,CL0759,Samanes,Envigado,Casa,116.7,1134400000,Referido,Crédito hipotecario,Separado,,
+CT0925,2026-02-10,CL0770,Yarumos,Medellín,Apartamento No VIS,78.7,678100000,Referido,Crédito hipotecario,Vendido,2026-04-28,670700000
+CT0926,2026-02-11,CL0752,Arrayanes,Bello,Apartamento VIS,53.8,249300000,Página web,Subsidio y crédito,Cotizado,,
+CT0927,2026-02-11,CL0767,Robles,Rionegro,Apartamento No VIS,81.6,621000000,Referido,Crédito hipotecario,Desistido,2026-03-14,
+CT0928,2026-02-12,CL0758,Arrayanes,Bello,Apartamento VIS,53.6,248400000,Sala de ventas,Subsidio y crédito,Desistido,2026-04-10,
+CT0929,2026-02-13,CL0754,Guayacanes,Itagüí,Apartamento VIS,52.2,241900000,Página web,Crédito hipotecario,Cotizado,,
+CT0930,2026-02-13,CL0755,Yarumos,Medellín,Apartamento No VIS,86.2,824600000,Página web,Leasing habitacional,Cotizado,,
+CT0931,2026-02-16,CL0766,Samanes,Envigado,Casa,138.1,1395100000,Página web,Crédito hipotecario,Vendido,2026-05-26,1388700000
+CT0932,2026-02-20,CL0771,Yarumos,Medellín,Apartamento No VIS,93.0,776700000,Referido,Crédito hipotecario,Cotizado,,
+CT0933,2026-02-21,CL0762,Ceibas,Sabaneta,Apartamento VIS,57.0,264100000,Referido,Crédito hipotecario,Desistido,2026-04-28,
+CT0934,2026-02-22,CL0769,Robles,Rionegro,Casa,130.5,1024200000,Página web,Crédito hipotecario,Vendido,2026-05-18,989400000
+CT0935,2026-02-26,CL0757,Yarumos,Medellín,Apartamento No VIS,97.1,926100000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0936,2026-02-26,CL0742,Robles,Rionegro,Casa,119.8,977900000,Página web,Crédito hipotecario,Cotizado,,
+CT0937,2026-02-26,CL0768,Samanes,Envigado,Casa,137.0,1437100000,Página web,Contado,Cotizado,,
+CT0938,2026-02-28,CL0753,Guayacanes,Itagüí,Apartamento No VIS,108.6,738600000,Referido,Crédito hipotecario,Vendido,2026-06-05,717400000
+CT0939,2026-02-28,CL0756,Samanes,Envigado,Casa,143.4,1334100000,Referido,Crédito hipotecario,Vendido,2026-06-13,1309100000
+CT0940,2026-03-02,CL0784,Samanes,Envigado,Casa,129.6,1266900000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0941,2026-03-03,CL0781,Samanes,Envigado,Casa,114.5,1125900000,Página web,Crédito hipotecario,Vendido,2026-06-18,1072200000
+CT0942,2026-03-03,CL0788,Arrayanes,Bello,Apartamento VIS,59.4,275200000,Página web,Subsidio y crédito,Cotizado,,
+CT0943,2026-03-04,CL0785,Guayacanes,Itagüí,Apartamento No VIS,102.9,774200000,Feria inmobiliaria,Crédito hipotecario,Cotizado,,
+CT0944,2026-03-05,CL0758,Samanes,Envigado,Apartamento No VIS,112.0,1120700000,Página web,Crédito hipotecario,Cotizado,,
+CT0945,2026-03-08,CL0772,Ceibas,Sabaneta,Apartamento VIS,59.1,273800000,Página web,Crédito hipotecario,Separado,,
+CT0946,2026-03-11,CL0778,Ceibas,Sabaneta,Apartamento No VIS,86.6,734200000,Página web,Crédito hipotecario,Cotizado,,
+CT0947,2026-03-11,CL0780,Ceibas,Sabaneta,Apartamento No VIS,98.5,787900000,Página web,Crédito hipotecario,Cotizado,,
+CT0948,2026-03-13,CL0786,Arrayanes,Bello,Apartamento VIS,46.5,215500000,Página web,Subsidio y crédito,Cotizado,,
+CT0949,2026-03-14,CL0779,Guayacanes,Itagüí,Apartamento No VIS,60.3,460600000,Sala de ventas,Leasing habitacional,Vendido,2026-07-20,443100000
+CT0950,2026-03-17,CL0783,Ceibas,Sabaneta,Apartamento VIS,53.0,245600000,Página web,Subsidio y crédito,Cotizado,,
+CT0951,2026-03-18,CL0774,Ceibas,Sabaneta,Apartamento No VIS,94.4,803300000,Página web,Contado,Cotizado,,
+CT0952,2026-03-21,CL0773,Guayacanes,Itagüí,Apartamento No VIS,78.6,536300000,Página web,Contado,Cotizado,,
+CT0953,2026-03-23,CL0746,Arrayanes,Bello,Apartamento VIS,55.0,254800000,Página web,Subsidio y crédito,Desistido,2026-07-01,
+CT0954,2026-03-27,CL0777,Robles,Rionegro,Apartamento No VIS,101.5,802900000,Página web,Crédito hipotecario,Desistido,2026-04-26,
+CT0955,2026-03-28,CL0742,Robles,Rionegro,Casa,141.3,1174000000,Referido,Crédito hipotecario,Separado,,
+CT0956,2026-03-29,CL0775,Robles,Rionegro,Apartamento No VIS,102.5,790300000,Página web,Contado,Cotizado,,
+CT0957,2026-03-29,CL0782,Guayacanes,Itagüí,Apartamento VIS,56.1,259900000,Feria inmobiliaria,Subsidio y crédito,Cotizado,,
+CT0958,2026-03-31,CL0776,Ceibas,Sabaneta,Apartamento No VIS,110.0,878400000,Feria inmobiliaria,Contado,Cotizado,,
+CT0959,2026-03-31,CL0787,Arrayanes,Bello,Apartamento VIS,47.8,221500000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0960,2026-04-02,CL0803,Arrayanes,Bello,Apartamento VIS,56.4,261300000,Referido,Crédito hipotecario,Vendido,2026-06-25,257200000
+CT0961,2026-04-02,CL0807,Ceibas,Sabaneta,Apartamento VIS,53.3,247000000,Feria inmobiliaria,Subsidio y crédito,Cotizado,,
+CT0962,2026-04-04,CL0798,Ceibas,Sabaneta,Apartamento No VIS,79.2,651500000,Página web,Leasing habitacional,Cotizado,,
+CT0963,2026-04-05,CL0801,Guayacanes,Itagüí,Apartamento VIS,45.0,208500000,Página web,Contado,Cotizado,,
+CT0964,2026-04-06,CL0805,Guayacanes,Itagüí,Apartamento No VIS,105.1,741400000,Página web,Leasing habitacional,Cotizado,,
+CT0965,2026-04-10,CL0793,Arrayanes,Bello,Apartamento VIS,50.9,235800000,Página web,Crédito hipotecario,Cotizado,,
+CT0966,2026-04-15,CL0791,Samanes,Envigado,Casa,147.8,1490300000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0967,2026-04-19,CL0796,Ceibas,Sabaneta,Apartamento VIS,50.2,232600000,Feria inmobiliaria,Subsidio y crédito,Cotizado,,
+CT0968,2026-04-20,CL0797,Guayacanes,Itagüí,Apartamento No VIS,61.3,440400000,Referido,Crédito hipotecario,Cotizado,,
+CT0969,2026-04-22,CL0737,Guayacanes,Itagüí,Apartamento No VIS,114.5,788700000,Referido,Contado,Vendido,2026-07-27,778700000
+CT0970,2026-04-22,CL0806,Arrayanes,Bello,Apartamento VIS,58.5,271100000,Página web,Crédito hipotecario,Cotizado,,
+CT0971,2026-04-23,CL0790,Samanes,Envigado,Apartamento No VIS,116.2,1081900000,Referido,Crédito hipotecario,Vendido,2026-07-16,1038800000
+CT0972,2026-04-23,CL0800,Samanes,Envigado,Apartamento No VIS,84.7,855500000,Página web,Contado,Cotizado,,
+CT0973,2026-04-23,CL0802,Guayacanes,Itagüí,Apartamento VIS,45.1,209000000,Sala de ventas,Subsidio y crédito,Separado,,
+CT0974,2026-04-25,CL0789,Robles,Rionegro,Casa,106.6,849200000,Página web,Crédito hipotecario,Cotizado,,
+CT0975,2026-04-28,CL0792,Ceibas,Sabaneta,Apartamento No VIS,115.7,970400000,Página web,Contado,Cotizado,,
+CT0976,2026-04-28,CL0799,Robles,Rionegro,Apartamento No VIS,65.9,494600000,Feria inmobiliaria,Crédito hipotecario,Vendido,2026-08-15,486400000
+CT0977,2026-04-29,CL0804,Arrayanes,Bello,Apartamento VIS,61.4,284500000,Sala de ventas,Subsidio y crédito,Separado,,
+CT0978,2026-04-30,CL0794,Arrayanes,Bello,Apartamento VIS,48.7,225700000,Referido,Subsidio y crédito,Separado,,
+CT0979,2026-04-30,CL0795,Robles,Rionegro,Casa,119.1,866200000,Referido,Crédito hipotecario,Vendido,2026-10-10,865300000
+CT0980,2026-04-30,CL0807,Yarumos,Medellín,Apartamento No VIS,68.0,622800000,Página web,Crédito hipotecario,Vendido,2026-09-11,599800000
+CT0981,2026-05-01,CL0824,Arrayanes,Bello,Apartamento VIS,51.6,239100000,Página web,Crédito hipotecario,Cotizado,,
+CT0982,2026-05-02,CL0812,Robles,Rionegro,Casa,140.7,1018500000,Página web,Contado,Cotizado,,
+CT0983,2026-05-02,CL0819,Ceibas,Sabaneta,Apartamento No VIS,90.0,764800000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0984,2026-05-03,CL0820,Guayacanes,Itagüí,Apartamento No VIS,115.6,883300000,Sala de ventas,Leasing habitacional,Cotizado,,
+CT0985,2026-05-05,CL0823,Arrayanes,Bello,Apartamento VIS,52.1,241400000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0986,2026-05-09,CL0813,Yarumos,Medellín,Apartamento No VIS,90.7,804500000,Página web,Crédito hipotecario,Cotizado,,
+CT0987,2026-05-09,CL0788,Yarumos,Medellín,Apartamento No VIS,67.5,638800000,Página web,Leasing habitacional,Cotizado,,
+CT0987,2026-05-09,CL0788,Yarumos,Medellín,Apartamento No VIS,67.5,638800000,Página web,Leasing habitacional,Cotizado,,
+CT0988,2026-05-10,CL0817,Arrayanes,Bello,Apartamento VIS,59.3,274800000,Referido,Crédito hipotecario,Cotizado,,
+CT0989,2026-05-11,CL0758,Guayacanes,Itagüí,Apartamento VIS,59.6,276200000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT0990,2026-05-13,CL0763,Yarumos,Medellín,Apartamento No VIS,94.4,849300000,Referido,Contado,Cotizado,,
+CT0991,2026-05-13,CL0811,Samanes,Envigado,Casa,131.5,1223700000,Página web,Crédito hipotecario,Vendido,2026-09-24,1220800000
+CT0992,2026-05-14,CL0810,Ceibas,Sabaneta,Apartamento VIS,59.4,275200000,Sala de ventas,Contado,Cotizado,,
+CT0993,2026-05-15,CL0814,Samanes,Envigado,Apartamento No VIS,65.5,661000000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT0994,2026-05-17,CL0815,Robles,Rionegro,Casa,149.5,1221100000,Página web,Crédito hipotecario,Cotizado,,
+CT0995,2026-05-17,CL0822,Arrayanes,Bello,Apartamento VIS,48.1,222900000,Página web,Subsidio y crédito,Cotizado,,
+CT0996,2026-05-20,CL0808,Arrayanes,Bello,Apartamento VIS,60.5,280300000,Página web,Subsidio y crédito,Cotizado,,
+CT0997,2026-05-21,CL0787,Ceibas,Sabaneta,Apartamento No VIS,116.3,994200000,Página web,Contado,Vendido,2026-10-03,991100000
+CT0998,2026-05-22,CL0818,Samanes,Envigado,Apartamento No VIS,113.3,1134400000,Feria inmobiliaria,Crédito hipotecario,Cotizado,,
+CT0999,2026-05-23,CL0821,Samanes,Envigado,Apartamento No VIS,113.6,1063900000,Página web,Leasing habitacional,Cotizado,,
+CT1000,2026-05-25,CL0809,Yarumos,Medellín,Apartamento No VIS,68.1,600600000,Referido,Contado,Vendido,2026-09-07,575500000
+CT1001,2026-05-27,CL0816,Robles,Rionegro,Apartamento No VIS,83.8,630800000,Página web,Leasing habitacional,Cotizado,,
+CT1002,2026-06-05,CL0837,Arrayanes,Bello,Apartamento VIS,58.7,272000000,Página web,Subsidio y crédito,Desistido,2026-07-27,
+CT1003,2026-06-06,CL0829,Samanes,Envigado,Apartamento No VIS,98.4,1024200000,Sala de ventas,Crédito hipotecario,Vendido,2026-09-27,979200000
+CT1004,2026-06-07,CL0836,Yarumos,Medellín,Apartamento No VIS,58.8,509800000,Página web,Contado,Cotizado,,
+CT1005,2026-06-08,CL0828,Robles,Rionegro,Apartamento No VIS,96.3,735400000,Página web,Crédito hipotecario,Cotizado,,
+CT1006,2026-06-09,CL0834,Yarumos,Medellín,Apartamento No VIS,94.9,892200000,Feria inmobiliaria,Crédito hipotecario,Cotizado,,
+CT1007,2026-06-10,CL0831,Robles,Rionegro,Casa,146.9,1142700000,Página web,Crédito hipotecario,Cotizado,,
+CT1008,2026-06-12,CL0826,Robles,Rionegro,Apartamento No VIS,91.0,732500000,Página web,Crédito hipotecario,Cotizado,,
+CT1009,2026-06-13,CL0830,Yarumos,Medellín,Apartamento No VIS,113.6,1022700000,Página web,Crédito hipotecario,Desistido,2026-09-03,
+CT1010,2026-06-13,CL0832,Ceibas,Sabaneta,Apartamento No VIS,79.1,635300000,Sala de ventas,Contado,Cotizado,,
+CT1011,2026-06-15,CL0818,Guayacanes,Itagüí,Apartamento VIS,58.6,271500000,Página web,Crédito hipotecario,Cotizado,,
+CT1012,2026-06-15,CL0838,Ceibas,Sabaneta,Apartamento VIS,52.5,243300000,Sala de ventas,Subsidio y crédito,Vendido,2026-08-20,240200000
+CT1013,2026-06-20,CL0827,Yarumos,Medellín,Apartamento No VIS,84.4,753100000,Referido,Crédito hipotecario,Separado,,
+CT1014,2026-06-20,CL0839,Robles,Rionegro,Apartamento No VIS,85.4,645400000,Referido,Leasing habitacional,Vendido,2026-08-17,626400000
+CT1015,2026-06-21,CL0825,Yarumos,Medellín,Apartamento No VIS,110.8,996600000,Página web,Contado,Desistido,2026-07-15,
+CT1016,2026-06-22,CL0843,Arrayanes,Bello,Apartamento VIS,52.3,242300000,Referido,Subsidio y crédito,Separado,,
+CT1017,2026-06-23,CL0835,Robles,Rionegro,Casa,95.1,768800000,Sala de ventas,Crédito hipotecario,Vendido,2026-09-20,762100000
+CT1018,2026-06-25,CL0842,Arrayanes,Bello,Apartamento VIS,51.0,236300000,Referido,Crédito hipotecario,Cotizado,,
+CT1019,2026-06-26,CL0797,Robles,Rionegro,Apartamento No VIS,103.9,770400000,Página web,Contado,Cotizado,,
+CT1020,2026-06-27,CL0833,Samanes,Envigado,Casa,102.2,974900000,Página web,Contado,Separado,,
+CT1021,2026-06-27,CL0841,Robles,Rionegro,Casa,119.8,963000000,Sala de ventas,Crédito hipotecario,Separado,,
+CT1022,2026-06-29,CL0840,Ceibas,Sabaneta,Apartamento No VIS,78.6,711700000,Página web,Leasing habitacional,Vendido,2026-09-21,701300000
+CT1023,2026-07-02,CL0848,Ceibas,Sabaneta,Apartamento No VIS,62.5,552700000,Página web,Contado,Cotizado,,
+CT1024,2026-07-03,CL0845,Yarumos,Medellín,Apartamento No VIS,110.2,955600000,Página web,Contado,Cotizado,,
+CT1025,2026-07-03,CL0859,Yarumos,Medellín,Apartamento No VIS,82.6,700300000,Referido,Leasing habitacional,Separado,,
+CT1026,2026-07-05,CL0852,Samanes,Envigado,Casa,137.5,1335700000,Página web,Crédito hipotecario,Desistido,2026-09-11,
+CT1027,2026-07-07,CL0853,Guayacanes,Itagüí,Apartamento VIS,60.1,278500000,Sala de ventas,Subsidio y crédito,Desistido,2026-10-18,
+CT1028,2026-07-09,CL0844,Guayacanes,Itagüí,Apartamento No VIS,107.4,717400000,Sala de ventas,Crédito hipotecario,Desistido,2026-10-23,
+CT1029,2026-07-11,CL0856,Yarumos,Medellín,Apartamento No VIS,83.0,760900000,Página web,Crédito hipotecario,Cotizado,,
+CT1030,2026-07-12,CL0847,Robles,Rionegro,Casa,132.2,1098800000,Feria inmobiliaria,Crédito hipotecario,Cotizado,,
+CT1031,2026-07-13,CL0860,Ceibas,Sabaneta,Apartamento VIS,54.0,250200000,Página web,Crédito hipotecario,Cotizado,,
+CT1032,2026-07-17,CL0858,Ceibas,Sabaneta,Apartamento VIS,51.3,237700000,Sala de ventas,Crédito hipotecario,Separado,,
+CT1033,2026-07-20,CL0851,Samanes,Envigado,Casa,155.5,1471200000,Página web,Crédito hipotecario,Vendido,2026-10-19,1415200000
+CT1034,2026-07-22,CL0855,Robles,Rionegro,Casa,158.7,1243600000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT1035,2026-07-23,CL0846,Ceibas,Sabaneta,Apartamento No VIS,60.2,506200000,Sala de ventas,Crédito hipotecario,Vendido,2026-10-20,483100000
+CT1036,2026-07-23,CL0849,Samanes,Envigado,Casa,153.6,1438500000,Referido,Crédito hipotecario,Cotizado,,
+CT1037,2026-07-23,CL0800,Robles,Rionegro,Casa,110.9,921100000,Página web,Leasing habitacional,Cotizado,,
+CT1038,2026-07-26,CL0857,Yarumos,Medellín,Apartamento No VIS,104.5,920800000,Página web,Crédito hipotecario,Cotizado,,
+CT1039,2026-07-27,CL0800,Samanes,Envigado,Casa,115.9,1202800000,Referido,Contado,Cotizado,,
+CT1040,2026-07-27,CL0850,Robles,Rionegro,Apartamento No VIS,85.1,644400000,Feria inmobiliaria,Crédito hipotecario,Separado,,
+CT1041,2026-07-28,CL0854,Samanes,Envigado,Casa,104.2,1092700000,Página web,Contado,Cotizado,,
+CT1042,2026-08-02,CL0872,Arrayanes,Bello,Apartamento VIS,46.4,215000000,Referido,Subsidio y crédito,Desistido,2026-09-12,
+CT1043,2026-08-03,CL0866,Yarumos,Medellín,Apartamento No VIS,97.1,897300000,Página web,Crédito hipotecario,Cotizado,,
+CT1044,2026-08-05,CL0870,Robles,Rionegro,Apartamento No VIS,105.8,803500000,Página web,Crédito hipotecario,Separado,,
+CT1045,2026-08-07,CL0852,Samanes,Envigado,Apartamento No VIS,109.5,1116000000,Sala de ventas,Leasing habitacional,Cotizado,,
+CT1046,2026-08-09,CL0867,Samanes,Envigado,Casa,109.8,1099600000,Página web,Crédito hipotecario,Cotizado,,
+CT1047,2026-08-11,CL0873,Ceibas,Sabaneta,Apartamento VIS,47.5,220100000,Referido,Crédito hipotecario,Cotizado,,
+CT1048,2026-08-12,CL0871,Ceibas,Sabaneta,Apartamento VIS,60.0,278000000,Página web,Subsidio y crédito,Cotizado,,
+CT1049,2026-08-13,CL0865,Arrayanes,Bello,Apartamento VIS,51.8,240000000,Página web,Subsidio y crédito,Separado,,
+CT1050,2026-08-14,CL0874,Samanes,Envigado,Casa,161.9,1613400000,Referido,Crédito hipotecario,Vendido,2026-10-31,1553500000
+CT1051,2026-08-17,CL0846,Ceibas,Sabaneta,Apartamento VIS,61.1,283100000,Sala de ventas,Subsidio y crédito,Separado,,
+CT1052,2026-08-24,CL0864,Arrayanes,Bello,Apartamento VIS,61.3,284000000,Feria inmobiliaria,Subsidio y crédito,Separado,,
+CT1053,2026-08-26,CL0868,Robles,Rionegro,Casa,138.7,1078100000,Página web,Crédito hipotecario,Separado,,
+CT1054,2026-08-27,CL0810,Yarumos,Medellín,Apartamento No VIS,102.3,887900000,Feria inmobiliaria,Crédito hipotecario,Cotizado,,
+CT1055,2026-08-27,CL0863,Robles,Rionegro,Apartamento No VIS,71.7,557200000,Página web,Crédito hipotecario,Cotizado,,
+CT1056,2026-08-28,CL0861,Yarumos,Medellín,Apartamento No VIS,83.8,737200000,Feria inmobiliaria,Crédito hipotecario,Cotizado,,
+CT1057,2026-08-28,CL0838,Samanes,Envigado,Apartamento No VIS,99.6,994600000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT1058,2026-08-28,CL0869,Guayacanes,Itagüí,Apartamento No VIS,65.9,470600000,Página web,Crédito hipotecario,Cotizado,,
+CT1059,2026-08-30,CL0862,Yarumos,Medellín,Apartamento No VIS,79.1,734100000,Referido,Leasing habitacional,Separado,,
+CT1060,2026-09-01,CL0882,Yarumos,Medellín,Apartamento No VIS,93.5,891900000,Sala de ventas,Leasing habitacional,Cotizado,,
+CT1061,2026-09-03,CL0884,Arrayanes,Bello,Apartamento VIS,53.7,248800000,Página web,Subsidio y crédito,Cotizado,,
+CT1062,2026-09-06,CL0873,Samanes,Envigado,Apartamento No VIS,58.5,589500000,Página web,Crédito hipotecario,Cotizado,,
+CT1063,2026-09-06,CL0886,Yarumos,Medellín,Apartamento No VIS,70.6,652700000,Feria inmobiliaria,Crédito hipotecario,Desistido,2026-10-07,
+CT1064,2026-09-06,CL0831,Arrayanes,Bello,Apartamento VIS,60.0,278000000,Sala de ventas,Subsidio y crédito,Cotizado,,
+CT1065,2026-09-07,CL0888,Guayacanes,Itagüí,Apartamento No VIS,71.8,505100000,Sala de ventas,Contado,Separado,,
+CT1066,2026-09-08,CL0877,Yarumos,Medellín,Apartamento No VIS,106.2,910500000,Página web,Leasing habitacional,Cotizado,,
+CT1067,2026-09-13,CL0876,Yarumos,Medellín,Apartamento No VIS,75.8,635400000,Referido,Contado,Cotizado,,
+CT1068,2026-09-14,CL0880,Yarumos,Medellín,Apartamento No VIS,65.8,622700000,Página web,Leasing habitacional,Cotizado,,
+CT1069,2026-09-16,CL0889,Arrayanes,Bello,Apartamento VIS,61.1,283100000,Página web,Subsidio y crédito,Cotizado,,
+CT1070,2026-09-17,CL0887,Samanes,Envigado,Apartamento No VIS,83.4,780200000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT1071,2026-09-20,CL0881,Arrayanes,Bello,Apartamento VIS,60.9,282200000,Feria inmobiliaria,Subsidio y crédito,Separado,,
+CT1072,2026-09-23,CL0885,Guayacanes,Itagüí,Apartamento No VIS,95.2,663600000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT1073,2026-09-24,CL0879,Samanes,Envigado,Apartamento No VIS,71.8,752200000,Sala de ventas,Crédito hipotecario,Desistido,2026-10-24,
+CT1074,2026-09-26,CL0875,Arrayanes,Bello,Apartamento VIS,48.1,222900000,Página web,Subsidio y crédito,Cotizado,,
+CT1075,2026-09-27,CL0878,Yarumos,Medellín,Apartamento No VIS,101.8,923300000,Sala de ventas,Crédito hipotecario,Separado,,
+CT1076,2026-09-30,CL0883,Arrayanes,Bello,Apartamento VIS,61.2,283600000,Feria inmobiliaria,Subsidio y crédito,Separado,,
+CT1077,2026-10-01,CL0893,Samanes,Envigado,Apartamento No VIS,75.0,749500000,Referido,Contado,Separado,,
+CT1078,2026-10-01,CL0898,Samanes,Envigado,Casa,144.2,1442100000,Página web,Crédito hipotecario,Separado,,
+CT1079,2026-10-07,CL0895,Ceibas,Sabaneta,Apartamento VIS,60.6,280800000,Página web,Subsidio y crédito,Cotizado,,
+CT1080,2026-10-09,CL0900,Arrayanes,Bello,Apartamento VIS,53.2,246500000,Sala de ventas,Crédito hipotecario,Cotizado,,
+CT1081,2026-10-10,CL0856,Arrayanes,Bello,Apartamento VIS,44.3,205300000,Referido,Subsidio y crédito,Separado,,
+CT1082,2026-10-13,CL0897,Yarumos,Medellín,Apartamento No VIS,64.3,558500000,Sala de ventas,Crédito hipotecario,Separado,,
+CT1083,2026-10-15,CL0890,Guayacanes,Itagüí,Apartamento No VIS,90.9,611200000,Página web,Leasing habitacional,Separado,,
+CT1084,2026-10-19,CL0857,Samanes,Envigado,Casa,127.7,1202800000,Referido,Leasing habitacional,Cotizado,,
+CT1085,2026-10-19,CL0887,Robles,Rionegro,Apartamento No VIS,70.0,538100000,Página web,Contado,Cotizado,,
+CT1086,2026-10-19,CL0899,Yarumos,Medellín,Apartamento No VIS,94.2,892900000,Referido,Leasing habitacional,Separado,,
+CT1087,2026-10-20,CL0891,Samanes,Envigado,Apartamento No VIS,72.0,712800000,Página web,Crédito hipotecario,Cotizado,,
+CT1088,2026-10-24,CL0896,Guayacanes,Itagüí,Apartamento No VIS,101.2,678100000,Página web,Leasing habitacional,Cotizado,,
+CT1089,2026-10-26,CL0856,Yarumos,Medellín,Apartamento No VIS,86.8,808900000,Página web,Leasing habitacional,Separado,,
+CT1090,2026-10-26,CL0894,Arrayanes,Bello,Apartamento VIS,57.0,264100000,Feria inmobiliaria,Crédito hipotecario,Cotizado,,
+CT1091,2026-10-26,CL0901,Ceibas,Sabaneta,Apartamento VIS,44.7,207100000,Página web,Crédito hipotecario,Separado,,
+CT1092,2026-10-27,CL0892,Arrayanes,Bello,Apartamento VIS,53.8,249300000,Referido,Crédito hipotecario,Cotizado,,
+CT1093,2026-10-29,CL0863,Robles,Rionegro,Apartamento No VIS,102.8,852900000,Sala de ventas,Crédito hipotecario,Separado,,
